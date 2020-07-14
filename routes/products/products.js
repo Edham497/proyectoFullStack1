@@ -5,6 +5,9 @@ const router = express.Router()
 
 router.get('/', async(request, response) => {
     const listaProducts = await Product.find({})
+    if(listaProducts.length < 2)
+        response.status(200).json(listaProducts[0])
+    else
     response.status(200).json(listaProducts)
 })
 
