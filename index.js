@@ -5,6 +5,7 @@ import {expressCspHeader, SELF, INLINE, NONE} from 'express-csp-header'
 
 //Routes
 import ProductRoutes from './routes/products/products'
+import UploadRoutes from './routes/upload'
 
 const app = express();
 app.use(cors());
@@ -35,6 +36,7 @@ mongoose
   .catch((err) => console.error(err));
 
 app.use('/products', ProductRoutes)
+app.use('/uploads', UploadRoutes)
 
 app.set("port", process.env.PORT || 5000);
 
