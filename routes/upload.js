@@ -19,7 +19,7 @@ app.post('/', async (req, res) => {
             })
         }
 
-        file.mv(`uploads/img.${ext}`, (err) => {
+        file.mv(`uploads/${Date.now()}.${ext}`, (err) => {
             if (err) {
                 return res.status(500).json({
                     status: 'error',
