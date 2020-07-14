@@ -1,7 +1,7 @@
 import express from "express";
 import mongoose from "mongoose";
 import cors from "cors";
-import csp from 'express-csp-header'
+import csp, {SELF} from 'express-csp-header'
 
 //Routes
 import ProductRoutes from './routes/products/products'
@@ -11,8 +11,8 @@ app.use(cors());
 app.use(express.json());
 app.use(csp({
   policies: {
-    'default-src': [csp.SELF],
-    'img-src': [csp.SELF],
+    'default-src': [SELF],
+    'img-src': [SELF],
   },
   reportOnly: true
 }))
