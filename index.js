@@ -11,9 +11,10 @@ app.use(cors());
 app.use(express.json());
 app.use(csp({
   policies: {
-    'default-src': [csp.NONE],
+    'default-src': [csp.SELF],
     'img-src': [csp.SELF],
-  }
+  },
+  reportOnly: true
 }))
 
 const password = "3dh4m";
