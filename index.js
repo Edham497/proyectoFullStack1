@@ -1,7 +1,7 @@
 import express from "express";
 import mongoose from "mongoose";
 import cors from "cors";
-import csp, {SELF} from 'express-csp-header'
+import {expressCspHeader, SELF } from 'express-csp-header'
 
 //Routes
 import ProductRoutes from './routes/products/products'
@@ -9,7 +9,7 @@ import ProductRoutes from './routes/products/products'
 const app = express();
 app.use(cors());
 app.use(express.json());
-app.use(csp({
+app.use(expressCspHeader({
   policies: {
     'default-src': [SELF],
     'img-src': [SELF],
@@ -23,9 +23,9 @@ const db = "tienda";
 mongoose
   .connect(
     `mongodb+srv://edham:${password}@proyectofullstack.xm1zv.mongodb.net/${db}?retryWrites=true&w=majority`, {
-      useUnifiedTopology: true,
-      useNewUrlParser: true,
-    }
+    useUnifiedTopology: true,
+    useNewUrlParser: true,
+  }
   )
   .then((db) => console.log("DB connected"))
   .catch((err) => console.error(err));
