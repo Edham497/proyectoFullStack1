@@ -1,7 +1,7 @@
 import express from "express";
 import mongoose from "mongoose";
 import cors from "cors";
-import {expressCspHeader, SELF } from 'express-csp-header'
+import {expressCspHeader, SELF, INLINE, NONE} from 'express-csp-header'
 
 //Routes
 import ProductRoutes from './routes/products/products'
