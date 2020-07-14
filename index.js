@@ -10,9 +10,13 @@ const app = express();
 app.use(cors());
 app.use(express.json());
 app.use(expressCspHeader({
-  policies: {
+  directives: {
     'default-src': [SELF],
-    'img-src': [SELF],
+    'script-src': [SELF, INLINE, 'somehost.com'],
+    'style-src': [SELF, 'mystyles.net'],
+    'img-src': ['data:', 'images.com'],
+    'worker-src': [NONE],
+    'block-all-mixed-content': false
   },
   reportOnly: true
 }))
