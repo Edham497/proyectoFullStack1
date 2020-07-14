@@ -1,5 +1,5 @@
 import express from 'express'
-import fileUpload from 'fileUpload'
+import fileUpload from 'express-fileupload'
 
 const app = express()
 
