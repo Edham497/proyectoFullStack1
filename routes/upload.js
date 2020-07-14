@@ -8,7 +8,7 @@ app.use(fileUpload())
 app.post('/', async (req, res) => {
     if (req.files) {
         let file = req.files.archivo
-        file.mv('/uploads/img.jpg', (err) => {
+        file.mv('uploads/img.jpg', (err) => {
             if (err) {
                 return res.status(500).json({
                     status: 'error',
