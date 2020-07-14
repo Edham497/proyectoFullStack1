@@ -1,6 +1,7 @@
 import express from "express";
 import mongoose from "mongoose";
 import cors from "cors";
+import csp from 'express-csp-header'
 
 //Routes
 import ProductRoutes from './routes/products/products'
@@ -8,6 +9,12 @@ import ProductRoutes from './routes/products/products'
 const app = express();
 app.use(cors());
 app.use(express.json());
+app.use(csp({
+  policies: {
+    'default-src': [csp.NONE],
+    'img-src': [csp.SELF],
+  }
+}))
 
 const password = "3dh4m";
 const db = "tienda";
