@@ -62,7 +62,8 @@ router.post('/login', async (request, response) => {
                         nombre: user.nombre,
                         direccion: user.direccion,
                         telefono: user.telefono,
-                        email: user.email
+                        email: user.email,
+                        createdAt: user.createdAt
                     }
                 })
             } else {
