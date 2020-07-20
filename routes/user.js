@@ -5,14 +5,17 @@ import bcrypt from 'bcryptjs'
 const router = express.Router()
 
 router.get('/', async (request, response) => {
-    try{
+    try {
         const listaUsuarios = await User.find({})
         if (listaUsuarios.length < 2)
             response.status(200).json(listaUsuarios[0])
         else
             response.status(200).json(listaUsuarios)
-    }catch(e){
-        response.status(500).json({ status: 'Ocurrió un error' });
+    } catch (e) {
+        response.status(500).json({
+            status: "SERVER_ERROR",
+            error: 'Error de servidor',
+        })
     }
 })
 
@@ -23,7 +26,16 @@ router.post('/add', async (request, response) => {
         await user.save()
         response.status(200).json({ status: 'OK' })
     } catch (e) {
-        response.status(500).json({ status: 'Ocurrió un error' });
+        if (e.code == 11000) {
+            response.status(500).json({ 
+                status: "DUPLICATED", 
+                error: "Usuario, Correo o Telefono ya existe" 
+            })
+        } else
+            response.status(500).json({
+                status: "SERVER_ERROR",
+                error: 'Error de servidor',
+            })
     }
 })
 
@@ -39,10 +51,10 @@ router.put('/edit', async (request, response) => {
 // })
 
 router.post('/login', async (request, response) => {
-    try{
-        const user = await User.findOne({email: request.body.email})
-        if(user){
-            if(await bcrypt.compare(request.body.password, user.password)){
+    try {
+        const user = await User.findOne({ email: request.body.email })
+        if (user) {
+            if (await bcrypt.compare(request.body.password, user.password)) {
                 response.status(200).json({
                     status: "OK",
                     usr_data: {
@@ -53,19 +65,19 @@ router.post('/login', async (request, response) => {
                         email: user.email
                     }
                 })
-            }else{
+            } else {
                 response.status(400).json({
                     status: "AUTH_REJECTED",
                     error: 'correo o contraseña incorrectos'
                 })
             }
-        }else{
+        } else {
             response.status(404).json({
                 status: "NOT_FOUND",
                 error: 'El usuario no existe'
             })
         }
-    }catch(e){
+    } catch (e) {
         console.log(e)
         response.status(500).json({
             status: "SERVER_ERROR",
