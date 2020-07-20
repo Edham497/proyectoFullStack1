@@ -1,0 +1,2852 @@
+[
+    {
+        "name": "Bocinas Gaming",
+        "marca": "ACTECK",
+        "departamento": "Componentes",
+        "descripcion": "Bocinas Gaming USB ACTECK Wonder X - 6 W, Negro, 150 Hz - 20 kHz, Cable 1.5 m",
+        "categoria": "Bocinas",
+        "precio": 179.0,
+        "img": "68.jpg",
+        "existencia": 673
+    },
+    {
+        "name": "Mobifree KAOS - Negro",
+        "marca": "KAOS",
+        "departamento": "Componentes",
+        "descripcion": "Mobifree KAOS - Negro, Bluetooth, 182g, 300 mAh, Radio FM",
+        "categoria": "Bocinas",
+        "precio": 198.0,
+        "img": "69.jpg",
+        "existencia": 608
+    },
+    {
+        "name": "Mobifree KAOS - Azul",
+        "marca": "KAOS",
+        "departamento": "Componentes",
+        "descripcion": "Mobifree KAOS - Azul, Bluetooth, 182g, 300 mAh, Radio FM",
+        "categoria": "Bocinas",
+        "precio": 198.0,
+        "img": "70.jpg",
+        "existencia": 597
+    },
+    {
+        "name": "Mobifree KAOS - Coral",
+        "marca": "KAOS",
+        "departamento": "Componentes",
+        "descripcion": "Mobifree KAOS - Coral, Bluetooth, 182g, 300 mAh, Radio FM",
+        "categoria": "Bocinas",
+        "precio": 198.0,
+        "img": "71.jpg",
+        "existencia": 596
+    },
+    {
+        "name": "Mobifree KAOS - Lila",
+        "marca": "KAOS",
+        "departamento": "Componentes",
+        "descripcion": "Mobifree KAOS - Lila, Bluetooth, 182g, 300 mAh, Radio FM",
+        "categoria": "Bocinas",
+        "precio": 198.0,
+        "img": "72.jpg",
+        "existencia": 594
+    },
+    {
+        "name": "Bocina TECHZONE",
+        "marca": "TECHZONE",
+        "departamento": "Componentes",
+        "descripcion": "Bocina TECHZONE - Negro, Alámbrico, USB/3, 5mm",
+        "categoria": "Bocinas",
+        "precio": 125.0,
+        "img": "73.jpg",
+        "existencia": 378
+    },
+    {
+        "name": "Bocina PERFECT CHOICE",
+        "marca": "PERFECT CHOICE",
+        "departamento": "Componentes",
+        "descripcion": "Bocina PERFECT CHOICE - 6 W, Negro, Alámbrico, USB/3, 5mm",
+        "categoria": "Bocinas",
+        "precio": 178.0,
+        "img": "74.jpg",
+        "existencia": 223
+    },
+    {
+        "name": "VORAGO BSP",
+        "marca": "VORAGO",
+        "departamento": "Componentes",
+        "descripcion": "Bocina VORAGO BSP-100-V2 - 3 W, Negro, Bluetooth, RADIO FM",
+        "categoria": "Bocinas",
+        "precio": 263.0,
+        "img": "75.jpg",
+        "existencia": 177
+    },
+    {
+        "name": "Bocina Naceb",
+        "marca": "Naceb Technology",
+        "departamento": "Componentes",
+        "descripcion": "Bocina Naceb Technology - Rojo, 3, 5 mm",
+        "categoria": "Bocinas",
+        "precio": 166.0,
+        "img": "76.jpg",
+        "existencia": 146
+    },
+    {
+        "name": "iPod APPLE Blanco",
+        "marca": "APPLE",
+        "departamento": "Componentes",
+        "descripcion": "iPod APPLE MVHV2BE/A - MP4, iOS 13, Plata, 32 GB, 4 pulgadas",
+        "categoria": "iPod",
+        "precio": 5602.0,
+        "img": "77.jpg",
+        "existencia": 44
+    },
+    {
+        "name": "iPod APPLE Negro",
+        "marca": "APPLE",
+        "departamento": "Componentes",
+        "descripcion": "iPod APPLE MVHW2BE/A - MP4, iOS 13, Gris Espacial, 32 GB, 4 pulgadas",
+        "categoria": "iPod",
+        "precio": 5602.0,
+        "img": "78.jpg",
+        "existencia": 21
+    },
+    {
+        "name": "Micrófono PERFECT CHOICE",
+        "marca": "PERFECT CHOICE",
+        "departamento": "Componentes",
+        "descripcion": "Micrófono PERFECT CHOICE - 100 - 16000 Hz, Alámbrico, 2, 16 m, 30 cm, Negro",
+        "categoria": "Micrófonos",
+        "precio": 175.0,
+        "img": "79.jpg",
+        "existencia": 12
+    },
+    {
+        "name": "Car Transmitter f2",
+        "marca": "ENERGY SISTEM",
+        "departamento": "Componentes",
+        "descripcion": "Reproductor mp3 ENERGY SISTEM Car Transmitter f2 - Negro, Digital, MicroSD (TransFlash), MP3",
+        "categoria": "Reproductores MP3",
+        "precio": 555.0,
+        "img": "80.jpg",
+        "existencia": 3
+    },
+    {
+        "name": "MP3 BROBOTIX 093024",
+        "marca": "BROBOTIX",
+        "departamento": "Componentes",
+        "descripcion": "Mini Reproductor MP3 BROBOTIX 093024 - Rosa, MicroSD (TransFlash), MP3",
+        "categoria": "Reproductores MP3",
+        "precio": 104.0,
+        "img": "81.jpg",
+        "existencia": 2
+    },
+    {
+        "name": "Kit de Accesorios",
+        "marca": "HP",
+        "departamento": "Componentes",
+        "descripcion": "Kit de Accesorios HP - Negro, Negro",
+        "categoria": "Reproductores MP3",
+        "precio": 153.0,
+        "img": "82.jpg",
+        "existencia": 1
+    },
+    {
+        "name": "MP3 BROBOTIX 093017",
+        "marca": "BROBOTIX",
+        "departamento": "Componentes",
+        "descripcion": "Mini Reproductor MP3 BROBOTIX 093017 - Rojo, MicroSD (TransFlash), MP3",
+        "categoria": "Reproductores MP3",
+        "precio": 104.0,
+        "img": "83.jpg",
+        "existencia": 1
+    },
+    {
+        "name": "All in One HP 205 G3",
+        "marca": "HP",
+        "departamento": "Computadoras",
+        "descripcion": "All In One HP 205 G3 - 19.5 pulgadas, AMD A4, 4 GB, 1 TB, Windows 10 Home",
+        "categoria": "All In One",
+        "precio": 11011.0,
+        "img": "1.jpg",
+        "existencia": 1236
+    },
+    {
+        "name": "All In One HP 22-B402LA",
+        "marca": "HP",
+        "departamento": "Computadoras",
+        "descripcion": "All In One HP 22-B402LA - 21.5 pulgadas, Intel Celeron J3060, 4 GB, 500 GB, Windows 10 Home",
+        "categoria": "All In One",
+        "precio": 11880.0,
+        "img": "2.jpg",
+        "existencia": 132
+    },
+    {
+        "name": "All in one LENOVO F0D8005JLD",
+        "marca": "LENOVO",
+        "departamento": "Computadoras",
+        "descripcion": "All in one LENOVO F0D8005JLD - 19.5 pulgadas, AMD A6, 4 GB, 1 TB HDD, Windows 10 Home",
+        "categoria": "All In One",
+        "precio": 11605.0,
+        "img": "3.jpg",
+        "existencia": 113
+    },
+    {
+        "name": "Pcs de Escritorio",
+        "marca": "LENOVO",
+        "departamento": "Computadoras",
+        "descripcion": "Pcs de Escritorio LENOVO Lenovo V530-24ICB - 23.8 pulgadas, Intel Core i5, 8 GB, 1000 GB, Windows 10 Pro",
+        "categoria": "All In One",
+        "precio": 26318.0,
+        "img": "4.jpg",
+        "existencia": 100
+    },
+    {
+        "name": "All In One Inspiron 5490",
+        "marca": "DELL",
+        "departamento": "Computadoras",
+        "descripcion": "All In One DELL Inspiron 5490 - 24 Pulgadas Touch, Intel® Core™ i5-10210U, Memoria 12 GB, 1 TB, Windows 10 Home",
+        "categoria": "All In One",
+        "precio": 25836.0,
+        "img": "5.jpg",
+        "existencia": 75
+    },
+    {
+        "name": "All in one F0EQ0042LD",
+        "marca": "LENOVO",
+        "departamento": "Computadoras",
+        "descripcion": "All in one LENOVO F0EQ0042LD - 21.5 pulgadas, AMD A6, 8 GB, 1 TB, Windows 10 Home",
+        "categoria": "All In One",
+        "precio": 12707.0,
+        "img": "6.jpg",
+        "existencia": 44
+    },
+    {
+        "name": "Inspiron 5490",
+        "marca": "DELL",
+        "departamento": "Computadoras",
+        "descripcion": "All In One DELL Inspiron 5490 - 24 Pulgadas Touch, Intel® Core™ i7-10510U, Memoria 16 GB, 1TB + 256GB SSD, Windows 10 Home",
+        "categoria": "All In One",
+        "precio": 33298.0,
+        "img": "7.jpg",
+        "existencia": 42
+    },
+    {
+        "name": "All in One V530-24ICB",
+        "marca": "LENOVO",
+        "departamento": "Computadoras",
+        "descripcion": "All in One LENOVO V530-24ICB - 23.8 pulgadas Touch, Intel Core i5, 8 GB, 1000 GB, Windows 10 Pro",
+        "categoria": "All In One",
+        "precio": 22367.0,
+        "img": "8.jpg",
+        "existencia": 37
+    },
+    {
+        "name": "All in One 10US00SBLS",
+        "marca": "LENOVO",
+        "departamento": "Computadoras",
+        "descripcion": "All in One LENOVO 10US00SBLS - 21.5 pulgadas, Intel Core i3, 8 GB, 256 GB SSD, Windows 10 Pro",
+        "categoria": "All In One",
+        "precio": 21200.0,
+        "img": "9.jpg",
+        "existencia": 33
+    },
+    {
+        "name": "All In One DELL Optiplex",
+        "marca": "DELL",
+        "departamento": "Computadoras",
+        "descripcion": "All In One DELL Optiplex 7470 - 23.8 pulgadas, Intel Core i7, 8 GB, 1 TB, Windows 10 Pro",
+        "categoria": "All In One",
+        "precio": 35016.0,
+        "img": "10.jpg",
+        "existencia": 32
+    },
+    {
+        "name": "HP AIO 200",
+        "marca": "HP",
+        "departamento": "Computadoras",
+        "descripcion": "HP AIO 200 G4 - 21.5 Pulgadas, Intel Core i3, 4GB. 1TB, DVD-RW, Windows 10 Home",
+        "categoria": "All In One",
+        "precio": 12942.0,
+        "img": "11.jpg",
+        "existencia": 28
+    },
+    {
+        "name": "IdeaCentre 330",
+        "marca": "LENOVO",
+        "departamento": "Computadoras",
+        "descripcion": "LENOVO IdeaCentre 330 - 19.5 pulgadas, AMD A6, 4 GB, 1 TB, Windows 10 Home",
+        "categoria": "All In One",
+        "precio": 11603.0,
+        "img": "12.jpg",
+        "existencia": 7
+    },
+    {
+        "name": "ProOne 400 G4",
+        "marca": "HP",
+        "departamento": "Computadoras",
+        "descripcion": "All In One HP ProOne 400 G4 - 23.8 pulgadas Touch, Intel® Core i5-9500, 16 GB, 256 SSD, Windows 10 Pro",
+        "categoria": "All In One",
+        "precio": 37518.0,
+        "img": "13.jpg",
+        "existencia": 4
+    },
+    {
+        "name": "AIO 20-C408LA",
+        "marca": "HP",
+        "departamento": "Computadoras",
+        "descripcion": "PC de escritorio HP AIO 20-C408LA - Intel Core i3, 4 GB, DDR4, 1000 GB, DVD+RW, Windows 10 Home",
+        "categoria": "All In One",
+        "precio": 13860.0,
+        "img": "14.jpg",
+        "existencia": 3
+    },
+    {
+        "name": "ThinkStation P330",
+        "marca": "LENOVO",
+        "departamento": "Computadoras",
+        "descripcion": "PC de Escritorio LENOVO ThinkStation P330 SFF - Intel Core i7, i7-9700, 8 GB, DDR4, 256GB SSD, Windows 10 Pro",
+        "categoria": "PC de escritorio",
+        "precio": 39820.0,
+        "img": "30.jpg",
+        "existencia": 28
+    },
+    {
+        "name": "ThinkStation P320",
+        "marca": "LENOVO",
+        "departamento": "Computadoras",
+        "descripcion": "Pcs de Escritorio LENOVO ThinStation P320 Tiny - Intel Core i7, i7-7700T, 8 GB, DDR4, 512 GB, Windows 10 Pro",
+        "categoria": "PC de escritorio",
+        "precio": 36946.0,
+        "img": "31.jpg",
+        "existencia": 1
+    },
+    {
+        "name": "LENOVO V530-24ICB",
+        "marca": "LENOVO",
+        "departamento": "Computadoras",
+        "descripcion": "Pcs de Escritorio LENOVO V530-24ICB - Intel Core i7, 8 GB, DDR4-SDRAM, 1000 GB",
+        "categoria": "PC de escritorio",
+        "precio": 31750.0,
+        "img": "32.jpg",
+        "existencia": 24
+    },
+    {
+        "name": "ThinkCentre M820z",
+        "marca": "LENOVO",
+        "departamento": "Computadoras",
+        "descripcion": "PC de Escritorio LENOVO ThinkCentre M820z - Intel Core i5, i5-8600, 8 GB, DDR4, 256 GB SSD, Windows 10 Pro",
+        "categoria": "PC de escritorio",
+        "precio": 30462.0,
+        "img": "33.jpg",
+        "existencia": 8
+    },
+    {
+        "name": "HP 280",
+        "marca": "HP",
+        "departamento": "Computadoras",
+        "descripcion": "PC de Escritorio HP 280 G3 SFF - Intel Core i5, i5-9500, 16 GB, DDR4, 256 GB SSD, Windows 10 Pro",
+        "categoria": "PC de escritorio",
+        "precio": 23770.0,
+        "img": "34.jpg",
+        "existencia": 14
+    },
+    {
+        "name": "ThinkStation P330",
+        "marca": "LENOVO",
+        "departamento": "Computadoras",
+        "descripcion": "PC de Escritorio LENOVO ThinkStation P330 - Intel Core i5, i5-8400, 4 GB, DDR4, 1TB, Windows 10 Pro",
+        "categoria": "PC de escritorio",
+        "precio": 27144.0,
+        "img": "35.jpg",
+        "existencia": 17
+    },
+    {
+        "name": "ThinStation P330 SFF",
+        "marca": "LENOVO",
+        "departamento": "Computadoras",
+        "descripcion": "PC de Escritorio LENOVO ThinStation P330 SFF - Intel Core i5, i5-9400, 8 GB, DDR4, 1 TB HDD, Windows 10 Pro",
+        "categoria": "PC de escritorio",
+        "precio": 27144.0,
+        "img": "36.jpg",
+        "existencia": 58
+    },
+    {
+        "name": "Thinkcentre M720s",
+        "marca": "LENOVO",
+        "departamento": "Computadoras",
+        "descripcion": "PC de Escritorio LENOVO Thinkcentre M720s SFF - Intel Core i7, i7-8700, 8 GB, DDR4, 1000 GB, Windows 10 Pro",
+        "categoria": "PC de escritorio",
+        "precio": 21220.0,
+        "img": "37.jpg",
+        "existencia": 86
+    },
+    {
+        "name": "ThinkCenter M720Q",
+        "marca": "LENOVO",
+        "departamento": "Computadoras",
+        "descripcion": "PC de Escritorio LENOVO ThinkCenter M720Q - Intel Core i7, i7-8700T, 8 GB, DDR4, 1 TB HDD, Windows 10 Pro",
+        "categoria": "PC de escritorio",
+        "precio": 24587.0,
+        "img": "38.jpg",
+        "existencia": 62
+    },
+    {
+        "name": "HP 400",
+        "marca": "HP",
+        "departamento": "Computadoras",
+        "descripcion": "PC de Escritorio HP 400 G6 SFF - Intel Core i5, i5-9500, 16 GB, DDR4-SDRAM, 1TB, Windows 10 Pro",
+        "categoria": "PC de escritorio",
+        "precio": 22646.0,
+        "img": "39.jpg",
+        "existencia": 2
+    },
+    {
+        "name": "HP 400 G5",
+        "marca": "HP",
+        "departamento": "Computadoras",
+        "descripcion": "Computadora de escritorio. HP 400 G5. (3G358LA). Procesador Intel Core i7 -8700T. Ram 8GB. 1TB. Pantalla 23.8 pulgadas. Win10 PRO.. Antivirus 1yr + 2TB CLOUD -",
+        "categoria": "PC de escritorio",
+        "precio": 25272.0,
+        "img": "40.jpg",
+        "existencia": 13
+    },
+    {
+        "name": "DELL O707SFI7S81TW10P3PS",
+        "marca": "DELL",
+        "departamento": "Computadoras",
+        "descripcion": "Computadora de Escritorio DELL O707SFI7S81TW10P3PS - Intel Core i7, i7-9700, 8 GB, DDR4, 1TB, Windows 10 Pro",
+        "categoria": "PC de escritorio",
+        "precio": 24491.0,
+        "img": "41.jpg",
+        "existencia": 164
+    },
+    {
+        "name": "HP 280",
+        "marca": "HP",
+        "departamento": "Computadoras",
+        "descripcion": "PC de Escritorio HP 280 G4 SFF - Intel Core i7, i7-9700, 8 GB, 1TB, Windows 10 Pro",
+        "categoria": "PC de escritorio",
+        "precio": 18359.0,
+        "img": "42.jpg",
+        "existencia": 61
+    },
+    {
+        "name": "LENOVO V530-22ICB",
+        "marca": "LENOVO",
+        "departamento": "Computadoras",
+        "descripcion": "Pcs de Escritorio LENOVO V530-22ICB - Intel Core i5, 8 GB, DDR4-SDRAM, 1000 GB, DVD+RW, Windows 10 Pro",
+        "categoria": "PC de escritorio",
+        "precio": 25272.0,
+        "img": "43.jpg",
+        "existencia": 54
+    },
+    {
+        "name": "LENOVO M720t",
+        "marca": "LENOVO",
+        "departamento": "Computadoras",
+        "descripcion": "PC de Escritorio LENOVO M720t - Intel Core i7-8700, i7-8700, 16 GB, DDR4, 1TB, Windows 10 Pro",
+        "categoria": "PC de escritorio",
+        "precio": 22707.0,
+        "img": "44.jpg",
+        "existencia": 36
+    },
+    {
+        "name": "Latitude 3500",
+        "marca": "DELL",
+        "departamento": "Computadoras",
+        "descripcion": "Computadora Portátil DELL Latitude 3500 - 15.6 pulgadas, Intel Core i5, i5-8250U, 8 GB, Windows 10 Pro, 1 TB",
+        "categoria": "Laptops",
+        "precio": 22095.0,
+        "img": "15.jpg",
+        "existencia": 590
+    },
+    {
+        "name": "Vostro 3481",
+        "marca": "DELL",
+        "departamento": "Computadoras",
+        "descripcion": "Laptop DELL Vostro 3481 - 14 Pulgadas, Intel Core i3, i3-8145U, 8 GB, Windows 10 Pro",
+        "categoria": "Laptops",
+        "precio": 15787.0,
+        "img": "16.jpg",
+        "existencia": 553
+    },
+    {
+        "name": "Vostro 3490",
+        "marca": "DELL",
+        "departamento": "Computadoras",
+        "descripcion": "Laptop DELL - 14 Pulgadas, Intel Core i5, i5-10210, 8 GB, Windows 10 Pro, 1 TB",
+        "categoria": "Laptops",
+        "precio": 19018.0,
+        "img": "17.jpg",
+        "existencia": 332
+    },
+    {
+        "name": "Latitude 5400",
+        "marca": "DELL",
+        "departamento": "Computadoras",
+        "descripcion": "Computadora Portátil DELL Latitude 5400 - 14 Pulgadas, Intel Core i5, i5-8265U, 8 GB, Windows 10 Pro, 256 GB SSD",
+        "categoria": "Laptops",
+        "precio": 24918.0,
+        "img": "18.jpg",
+        "existencia": 194
+    },
+    {
+        "name": "LENOVO E495",
+        "marca": "LENOVO",
+        "departamento": "Computadoras",
+        "descripcion": "Laptops LENOVO E495 - 14 Pulgadas, AMD, Ryzen 5-3500U, 8 GB, Windows 10 Pro, 512 GB SSD",
+        "categoria": "Laptops",
+        "precio": 18792.0,
+        "img": "19.jpg",
+        "existencia": 170
+    },
+    {
+        "name": "LENOVO 20RV002ELM",
+        "marca": "LENOVO",
+        "departamento": "Computadoras",
+        "descripcion": "Laptops LENOVO 20RV002ELM - 14 Pulgadas, Intel Core i3, I5 10210U, 8 GB, Windows 10 Pro",
+        "categoria": "Laptops",
+        "precio": 18794.0,
+        "img": "20.jpg",
+        "existencia": 157
+    },
+    {
+        "name": "LENOVO 81YB0036LM",
+        "marca": "LENOVO",
+        "departamento": "Computadoras",
+        "descripcion": "Laptop LENOVO 81YB0036LM - 14 Pulgadas, Intel Core i7, i7-8565U, 8 GB, Windows 10 Pro",
+        "categoria": "Laptops",
+        "precio": 21903.0,
+        "img": "21.jpg",
+        "existencia": 151
+    },
+    {
+        "name": "LENOVO L390 Yoga",
+        "marca": "LENOVO",
+        "departamento": "Computadoras",
+        "descripcion": "LENOVO L390 Yoga - 13.3 pulgadas, Intel Core i7, i7-8565U, 16 GB, Windows 10 Pro",
+        "categoria": "Laptops",
+        "precio": 30224.0,
+        "img": "22.jpg",
+        "existencia": 135
+    },
+    {
+        "name": "HD TN ANTIGLARE",
+        "marca": "LENOVO",
+        "departamento": "Computadoras",
+        "descripcion": "Laptop Pantalla 14 pulgadas, HD TN ANTIGLARE - Proces LENOVO 81YB002NLM, 14 Pulgadas, Intel Core i5, i5-8265U, 8 GB, Windows 10 Pro",
+        "categoria": "Laptops",
+        "precio": 17309.0,
+        "img": "23.jpg",
+        "existencia": 133
+    },
+    {
+        "name": "DYNABOOK",
+        "marca": "Toshiba",
+        "departamento": "Computadoras",
+        "descripcion": "Laptops Dynabook-Toshiba PUZ20U-1H001G - 13.3 pulgadas Touch, Intel Core i5, i5-10210U, 16 GB, Windows 10 Pro",
+        "categoria": "Laptops",
+        "precio": 39446.0,
+        "img": "24.jpg",
+        "existencia": 132
+    },
+    {
+        "name": "LENOVO IdeaPad",
+        "marca": "LENOVO",
+        "departamento": "Computadoras",
+        "descripcion": "Laptop LENOVO IdeaPad L340-15API - 15.6 pulgadas, AMD Ryzen 5, 5-3500U, 8 GB, Windows 10 Home, 2 TB",
+        "categoria": "Laptops",
+        "precio": 15470.0,
+        "img": "25.jpg",
+        "existencia": 106
+    },
+    {
+        "name": "Dynabook PMZ20U",
+        "marca": "Toshiba",
+        "departamento": "Computadoras",
+        "descripcion": "Laptops Dynabook-Toshiba PMZ20U-05C00C - 14 Pulgadas, Intel Core i3, i3-10110U, 8 GB, Windows 10 Pro",
+        "categoria": "Laptops",
+        "precio": 24458.0,
+        "img": "26.jpg",
+        "existencia": 104
+    },
+    {
+        "name": "Aspire 5",
+        "marca": "ACER",
+        "departamento": "Computadoras",
+        "descripcion": "Laptops Aspire 5 - 14 pulgadas, Intel Core I7, 8GB, 1TB, 256GB",
+        "categoria": "Laptops",
+        "precio": 22771.0,
+        "img": "27.jpg",
+        "existencia": 99
+    },
+    {
+        "name": "LENOVO S145",
+        "marca": "LENOVO",
+        "departamento": "Computadoras",
+        "descripcion": "Laptops LENOVO S145-15IWL - 15.6 pulgadas, Intel Core i5, i5-8265U, 4 GB, Windows 10 Home",
+        "categoria": "Laptops",
+        "precio": 20272.0,
+        "img": "28.jpg",
+        "existencia": 99
+    },
+    {
+        "name": "ACER AN515",
+        "marca": "ACER",
+        "departamento": "Computadoras",
+        "descripcion": "Laptop ACER AN515-52-75J9 - Intel Core i7, 8 GB, 15.6 pulgadas, Windows 10 Home, 2000 GB",
+        "categoria": "Laptops",
+        "precio": 25731.0,
+        "img": "29.jpg",
+        "existencia": 1
+    },
+    {
+        "name": "ThinkStation P330 Tiny",
+        "marca": "LENOVO",
+        "departamento": "Computadoras",
+        "descripcion": "Mini PC LENOVO ThinkStation P330 Tiny - 8 GB, Negro, i7-8700T, 512 GB SSD",
+        "categoria": "Tabletas",
+        "precio": 37248.0,
+        "img": "60.jpg",
+        "existencia": 3
+    },
+    {
+        "name": "Mac Mini APPLE",
+        "marca": "APPLE",
+        "departamento": "Computadoras",
+        "descripcion": "Mac Mini APPLE MRTR2E/A - Intel Core i3, 8 GB, 128 GB SSD, MacOS Catalina",
+        "categoria": "Tabletas",
+        "precio": 23789.0,
+        "img": "61.jpg",
+        "existencia": 5
+    },
+    {
+        "name": "Mini PC INTEL NUC",
+        "marca": "INTEL",
+        "departamento": "Computadoras",
+        "descripcion": "Mini PC INTEL NUC Core i7-8565U - Soporta memorias DDR4-2400 SO-DIMM, (INCLUYE RAM 8GB NO EXPANDIBLE Y GRAFICOS RADEON 540X, NO INCLUYE ALMACENAMIENTO NI SO)",
+        "categoria": "Tabletas",
+        "precio": 15204.0,
+        "img": "62.jpg",
+        "existencia": 7
+    },
+    {
+        "name": "Mini PC",
+        "marca": "INTEL",
+        "departamento": "Computadoras",
+        "descripcion": "Mini PC INTEL NUC Core i5-7260U - Soporta memorias DDR4-2400 SO-DIMM, (NO INCLUYE RAM, ALMACENAMIENTO, NI SO)",
+        "categoria": "Tabletas",
+        "precio": 10615.0,
+        "img": "63.jpg",
+        "existencia": 2
+    },
+    {
+        "name": "BRIX GB-BRi3H-8130",
+        "marca": "BAREBONE",
+        "departamento": "Computadoras",
+        "descripcion": "BAREBONE BRIX GB-BRi3H-8130 GIGABYTE GB-BRi3H-8130 - DDR4, 64 GB, Intel, BGA 1356",
+        "categoria": "Tabletas",
+        "precio": 10365.0,
+        "img": "64.jpg",
+        "existencia": 1
+    },
+    {
+        "name": "Mini PC INTEL NUC",
+        "marca": "INTEL",
+        "departamento": "Computadoras",
+        "descripcion": "Mini PC INTEL NUC - Intel Core i3, i3-5005U, DDR3L-1333/1600 1.35V SO-DIMM, 4 GB, 1 TB HDD",
+        "categoria": "Tabletas",
+        "precio": 6088.0,
+        "img": ".jpg",
+        "existencia": 1
+    },
+    {
+        "name": "Qian QMPW1904",
+        "marca": "Qian",
+        "departamento": "Computadoras",
+        "descripcion": "Mini PC de Escritorio Qian QMPW1904 - Intel Core i3, i3-5005U, 4 GB, 64 GB",
+        "categoria": "Tabletas",
+        "precio": 6274.0,
+        "img": "65.jpg",
+        "existencia": 1
+    },
+    {
+        "name": "LIVA Q2 N4100",
+        "marca": "LIVA",
+        "departamento": "Computadoras",
+        "descripcion": "Mini PC ECS LIVA Q2 N4100 - Intel Celeron, N4100, LPDDR4, 4 GB, 32 GB",
+        "categoria": "Tabletas",
+        "precio": 6132.0,
+        "img": "66.jpg",
+        "existencia": 5
+    },
+    {
+        "name": "Pentium N3700",
+        "marca": "INTEL",
+        "departamento": "Computadoras",
+        "descripcion": "Mini PC INTEL NUC Pentium N3700 - Soporta memorias DDR3L-1333/1600 1.35V SO-DIMM. (NO INCLUYE RAM, ALMACENAMIENTO, NI SO)",
+        "categoria": "Tabletas",
+        "precio": 4991.0,
+        "img": "67.jpg",
+        "existencia": 184
+    },
+    {
+        "name": "SAMSUNG Galaxy Tab A",
+        "marca": "SAMSUNG",
+        "departamento": "Computadoras",
+        "descripcion": "Tableta SAMSUNG Galaxy Tab A 8.0 pulgadas Wi-Fi - 35 GB - 2 GB interna, Android 9.0 Pie, Qualcomm Snapdragon 429",
+        "categoria": "Tabletas",
+        "precio": 4043.0,
+        "img": "45.jpg",
+        "existencia": 907
+    },
+    {
+        "name": "Yoga YT3-X50M",
+        "marca": "LENOVO",
+        "departamento": "Computadoras",
+        "descripcion": "Tableta LENOVO Yoga YT3-X50M - 2 GB, 10.1 pulgadas, Android 5.1",
+        "categoria": "Tabletas",
+        "precio": 5968.0,
+        "img": "46.jpg",
+        "existencia": 467
+    },
+    {
+        "name": "ZA400030MX",
+        "marca": "LENOVO",
+        "departamento": "Computadoras",
+        "descripcion": "Tableta LENOVO ZA400030MX - 1 GB, Quad-Core, 7 pulgadas, Android Go, 8 GB",
+        "categoria": "Tabletas",
+        "precio": 2100.0,
+        "img": "47.jpg",
+        "existencia": 208
+    },
+    {
+        "name": "SAMSUNG Galaxy Kids",
+        "marca": "SAMSUNG",
+        "departamento": "Computadoras",
+        "descripcion": "Tablet SAMSUNG SM-T113NDWACCC - 1 GB, Quad Core, 7 pulgadas, Android 4.4, 8 GB",
+        "categoria": "Tabletas",
+        "precio": 3085.0,
+        "img": "48.jpg",
+        "existencia": 123
+    },
+    {
+        "name": "LENOVO TB-X304F",
+        "marca": "LENOVO",
+        "departamento": "Computadoras",
+        "descripcion": "LENOVO TB-X304F - 2 GB, APQ8017 QC 1.4GHZ 64BIT, 10, 1 pulgadas, Android 7.0, 16 GB",
+        "categoria": "Tabletas",
+        "precio": 4420.0,
+        "img": "49.jpg",
+        "existencia": 113
+    },
+    {
+        "name": "Stylos STTTA84A",
+        "marca": "Stylos",
+        "departamento": "Computadoras",
+        "descripcion": "Tableta Stylos STTTA84A - 1 GB, Quad-Core, 7 pulgadas, Android 8.1, 8 GB",
+        "categoria": "Tabletas",
+        "precio": 1115.0,
+        "img": "50.jpg",
+        "existencia": 101
+    },
+    {
+        "name": "BE clever 10.1",
+        "marca": "BLECK",
+        "departamento": "Computadoras",
+        "descripcion": "Tablet BE clever 10.1 BLECK BL-919852 - 1 GB, Quad-Core, 10.1 pulgadas, Android Go, 8 GB",
+        "categoria": "Tabletas",
+        "precio": 1913.0,
+        "img": "51.jpg",
+        "existencia": 97
+    },
+    {
+        "name": "SAMSUNG Galaxy Tab S5e",
+        "marca": "SAMSUNG",
+        "departamento": "Computadoras",
+        "descripcion": "Tableta SAMSUNG Galaxy Tab S5e 10.5 pulgadas, Wi-Fi - 4 GB interna, Android 9.0 Pie, QualComm Snapdragon 670",
+        "categoria": "Tabletas",
+        "precio": 11550.0,
+        "img": "52.jpg",
+        "existencia": 67
+    },
+    {
+        "name": "LENOVO TB-7104F",
+        "marca": "LENOVO",
+        "departamento": "Computadoras",
+        "descripcion": "LENOVO TB-7104F - 1 GB, MT8321, 7 pulgadas, Android 8.0, 16 GB",
+        "categoria": "Tabletas",
+        "precio": 2210.0,
+        "img": "53.jpg",
+        "existencia": 62
+    },
+    {
+        "name": "PAD-7-V5-WH",
+        "marca": "VORAGO",
+        "departamento": "Computadoras",
+        "descripcion": "Tablet VORAGO PAD-7-V5-WH - 1 GB, Quad-Core, 7 pulgadas, Android 8.1, 16 GB, Color Blanco",
+        "categoria": "Tabletas",
+        "precio": 1136.0,
+        "img": "54.jpg",
+        "existencia": 54
+    },
+    {
+        "name": "Stylos STTTA84B",
+        "marca": "Stylos",
+        "departamento": "Computadoras",
+        "descripcion": "Tableta Stylos STTTA84B - 1 GB, Quad-Core, 7 pulgadas, Android 8.1, 8 GB",
+        "categoria": "Tabletas",
+        "precio": 1115.0,
+        "img": "55.jpg",
+        "existencia": 40
+    },
+    {
+        "name": "Stylos STTTA84R",
+        "marca": "Stylos",
+        "departamento": "Computadoras",
+        "descripcion": "Tableta Stylos STTTA84R - 1 GB, Quad-Core, 7 pulgadas, Android 8.1, 8 GB",
+        "categoria": "Tabletas",
+        "precio": 1115.0,
+        "img": "56.jpg",
+        "existencia": 40
+    },
+    {
+        "name": "Koral 7W4",
+        "marca": "HYUNDAI",
+        "departamento": "Computadoras",
+        "descripcion": "Tablet HYUNDAI Koral 7W4 - 1 GB, Quad-Core, 7 pulgadas, Android 8.1 Oreo, 8 GB, Color Negro",
+        "categoria": "Tabletas",
+        "precio": 1233.0,
+        "img": "57.jpg",
+        "existencia": 33
+    },
+    {
+        "name": "SAMSUNG Galaxy Tab A ",
+        "marca": "SAMSUNG",
+        "departamento": "Computadoras",
+        "descripcion": "Tableta SAMSUNG Galaxy Tab A 10.1 pulgadas- 2 GB  interno, Android 9.0 Pie, Exynos 7904 ",
+        "categoria": "Tabletas",
+        "precio": 6241.0,
+        "img": "58.jpg",
+        "existencia": 28
+    },
+    {
+        "name": "Koral 7M4 3G",
+        "marca": "HYUNDAI",
+        "departamento": "Computadoras",
+        "descripcion": "Tablet HYUNDAI Koral 7M4 3G - 1 GB, Quad-Core, 7 pulgadas, Android 8.1 Oreo, 8 GB",
+        "categoria": "Tabletas",
+        "precio": 1768.0,
+        "img": "59.jpg",
+        "existencia": 25
+    },
+    {
+        "name": "Adaptador USB Nano",
+        "marca": "TP-LINK",
+        "departamento": "Conectividad",
+        "descripcion": "Adaptador USB Nano TP-LINK TL-WN725N - USB, 150 Mbit/s, Negro",
+        "categoria": "Adaptadores Inalámbricos",
+        "precio": 172.0,
+        "img": "153.jpg",
+        "existencia": 2485
+    },
+    {
+        "name": "Adaptador USB",
+        "marca": "TP-LINK",
+        "departamento": "Conectividad",
+        "descripcion": "Adaptador USB TP-LINK TL-WN722N - Inalámbrico, 150 Mbit/s, Color blanco",
+        "categoria": "Adaptadores Inalámbricos",
+        "precio": 249.0,
+        "img": "154.jpg",
+        "existencia": 793
+    },
+    {
+        "name": "Adaptador USB",
+        "marca": "TP-LINK",
+        "departamento": "Conectividad",
+        "descripcion": "Adaptador USB TP-LINK TL-WN8200ND - Inalámbrico, 300 Mbit/s, Negro",
+        "categoria": "Adaptadores Inalámbricos",
+        "precio": 420.0,
+        "img": "155.jpg",
+        "existencia": 785
+    },
+    {
+        "name": "Adaptador USB Dual Band",
+        "marca": "TP-LINK",
+        "departamento": "Conectividad",
+        "descripcion": "Adaptador USB TP-LINK Archer T2U - USB, 600 Mbit/s, 2.4 - 5, Negro",
+        "categoria": "Adaptadores Inalámbricos",
+        "precio": 382.0,
+        "img": "156.jpg",
+        "existencia": 260
+    },
+    {
+        "name": "Adaptador USB",
+        "marca": "TP-LINK",
+        "departamento": "Conectividad",
+        "descripcion": "Adaptador USB TP-LINK TL-WN821N - Inalámbrico, 300 Mbit/s, Color blanco",
+        "categoria": "Adaptadores Inalámbricos",
+        "precio": 230.0,
+        "img": "157.jpg",
+        "existencia": 254
+    },
+    {
+        "name": "Adaptador USB",
+        "marca": "TP-LINK",
+        "departamento": "Conectividad",
+        "descripcion": "Adaptador USB TP-LINK TL-WN822N - USB, 300 Mbit/s, 2.4 - 2.4835, Color blanco",
+        "categoria": "Adaptadores Inalámbricos",
+        "precio": 287.0,
+        "img": "158.jpg",
+        "existencia": 197
+    },
+    {
+        "name": "Receptor Bluetooth",
+        "marca": "TP-LINK",
+        "departamento": "Conectividad",
+        "descripcion": "Receptor Bluetooth TP-LINK - 20 m, Negro",
+        "categoria": "Adaptadores para Audio",
+        "precio": 497.0,
+        "img": "159.jpg",
+        "existencia": 98
+    },
+    {
+        "name": "Adaptador de Audio",
+        "marca": "LOGITECH",
+        "departamento": "Conectividad",
+        "descripcion": "Adaptador de Audio LOGITECH 980-001277 - USB, Negro",
+        "categoria": "Adaptadores para Audio",
+        "precio": 396.0,
+        "img": "160.jpg",
+        "existencia": 10
+    },
+    {
+        "name": "Adaptador de audio",
+        "marca": "MANHATTAN",
+        "departamento": "Conectividad",
+        "descripcion": "Adaptador de audio MANHATTAN - USB 2.0 M, Macho/hembra, Negro",
+        "categoria": "Adaptadores para Audio",
+        "precio": 189.0,
+        "img": "161.jpg",
+        "existencia": 3
+    },
+    {
+        "name": "Reproductor Música",
+        "marca": "D-LINK",
+        "departamento": "Conectividad",
+        "descripcion": "Reproductor música D-LINK - Inalámbrico, Color blanco",
+        "categoria": "Adaptadores para Audio",
+        "precio": 952.0,
+        "img": "162.jpg",
+        "existencia": 3
+    },
+    {
+        "name": "ADAPTADOR STEREO",
+        "marca": "BROBOTIX",
+        "departamento": "Conectividad",
+        "descripcion": "ADAPTADOR STEREO BROBOTIX 'Y' HEMBRA 3.5 - 3.5 mm, Color blanco",
+        "categoria": "Adaptadores para Audio",
+        "precio": 49.0,
+        "img": "163.jpg",
+        "existencia": 3
+    },
+    {
+        "name": "Adaptador de Diadema Mini Jack 3.5 mm",
+        "marca": "StarTech",
+        "departamento": "Conectividad",
+        "descripcion": "Adaptador de Diadema Mini Jack 3.5 mm StarTech.com MUYHSMFFADW - Color blanco",
+        "categoria": "Adaptadores para Audio",
+        "precio": 204.0,
+        "img": "164.jpg",
+        "existencia": 2
+    },
+    {
+        "name": "Convertidor USB a audio",
+        "marca": "MANHATTAN",
+        "departamento": "Conectividad",
+        "descripcion": "Convertidor USB a audio MANHATTAN 152754 - USB, Negro",
+        "categoria": "Adaptadores para Audio",
+        "precio": 149.0,
+        "img": "165.jpg",
+        "existencia": 2
+    },
+    {
+        "name": "Adaptador con 6 puertos",
+        "marca": "BROBOTIX",
+        "departamento": "Conectividad",
+        "descripcion": "Adaptador con 6 puertos BROBOTIX 330025 - Color blanco",
+        "categoria": "Adaptadores para Audio",
+        "precio": 82.0,
+        "img": "166.jpg",
+        "existencia": 1
+    },
+    {
+        "name": "Plugs de Red",
+        "marca": "INTELLINET",
+        "departamento": "Conectividad",
+        "descripcion": "Plugs de red INTELLINET - Transparente",
+        "categoria": "Adaptadores para Red",
+        "precio": 437.0,
+        "img": "167.jpg",
+        "existencia": 1069
+    },
+    {
+        "name": "Cople Rj45",
+        "marca": "INTELLINET",
+        "departamento": "Conectividad",
+        "descripcion": "Cople Rj45 INTELLINET - RJ-45, RJ-45, Hembra/hembra, Color blanco",
+        "categoria": "Adaptadores para Red",
+        "precio": 30.0,
+        "img": "168.jpg",
+        "existencia": 729
+    },
+    {
+        "name": "Plugs de red",
+        "marca": "INTELLINET",
+        "departamento": "Conectividad",
+        "descripcion": "Plugs de red INTELLINET - Macho/Macho, Transparente",
+        "categoria": "Adaptadores para Red",
+        "precio": 546.0,
+        "img": "169.jpg",
+        "existencia": 652
+    },
+    {
+        "name": "Plug RJ45 100 pzs",
+        "marca": "BROBOTIX",
+        "departamento": "Conectividad",
+        "descripcion": "Plug RJ45 BROBOTIX 072454 - Translúcido, CAT5E, 8 POSICIONES, CAJA CON 100 PZ",
+        "categoria": "Adaptadores para Red",
+        "precio": 294.0,
+        "img": "170.jpg",
+        "existencia": 218
+    },
+    {
+        "name": "Kit Sistema Wifi",
+        "marca": "TP-LINK",
+        "departamento": "Conectividad",
+        "descripcion": "Kit Sistema Wifi TP-LINK Deco M5(3-pack) - Color blanco, 1300 Mbps",
+        "categoria": "Adaptadores para Red",
+        "precio": 4931.0,
+        "img": "171.jpg",
+        "existencia": 123
+    },
+    {
+        "name": "Convertidor HDMI a VGA",
+        "marca": "TRIPP-LITE",
+        "departamento": "Conectividad",
+        "descripcion": "Convertidor y Adaptador TRIPP-LITE P131-06N - Negro, HDMI, Macho/hembra",
+        "categoria": "Adaptadores para Video",
+        "precio": 694.0,
+        "img": "172.jpg",
+        "existencia": 101
+    },
+    {
+        "name": "Adaptador",
+        "marca": "DisplayPort",
+        "departamento": "Conectividad",
+        "descripcion": "Adaptador Activo DisplayPort a VGA TRIPP-LITE P134-001-VGA - Negro, Macho/Hembra",
+        "categoria": "Adaptadores para Video",
+        "precio": 455.0,
+        "img": "173.jpg",
+        "existencia": 70
+    },
+    {
+        "name": "Adaptador de Video",
+        "marca": "TRIPP-LITE",
+        "departamento": "Conectividad",
+        "descripcion": "Adaptador de Video TRIPP-LITE P137-06N-HDMI - Color blanco, Mini DisplayPort, Mini DisplayPort, HDMI, Macho/hembra",
+        "categoria": "Adaptadores para Video",
+        "precio": 283.0,
+        "img": "174.jpg",
+        "existencia": 44
+    },
+    {
+        "name": "Adaptador Tipo C a HDM",
+        "marca": "Naceb",
+        "departamento": "Conectividad",
+        "descripcion": "Adaptador Tipo C a HDM Naceb Technology NA-0114 - Plata, USB C, HDMI",
+        "categoria": "Adaptadores para Video",
+        "precio": 350.0,
+        "img": "175.jpg",
+        "existencia": 42
+    },
+    {
+        "name": "Adaptador Tipo C a VGA",
+        "marca": "Naceb",
+        "departamento": "Conectividad",
+        "descripcion": "Adaptador Tipo C a VGA Naceb Technology NA-0110 - Plata, USB C, VGA",
+        "categoria": "Adaptadores para Video",
+        "precio": 261.0,
+        "img": "176.jpg",
+        "existencia": 34
+    },
+    {
+        "name": "Adaptador Tipo C a USB 3.0 + PD",
+        "marca": "Naceb",
+        "departamento": "Conectividad",
+        "descripcion": "Adaptador Tipo C a USB 3.0 + PD Naceb Technology NA-0112 - Plata, USB C, USB 3.0 + PD",
+        "categoria": "Adaptadores para Video",
+        "precio": 426.0,
+        "img": "178.jpg",
+        "existencia": 23
+    },
+    {
+        "name": "Adaptador Tipo C a HDMI+VGA",
+        "marca": "Naceb",
+        "departamento": "Conectividad",
+        "descripcion": "Adaptador Tipo C a HDMI+VGA Naceb Technology NA-0113 - Plata, USB C, HDMI+VGA",
+        "categoria": "Adaptadores para Video",
+        "precio": 396.0,
+        "img": "179.jpg",
+        "existencia": 18
+    },
+    {
+        "name": "Adaptador Tipo C a HDMI + USB 3.0 + PD",
+        "marca": "Naceb",
+        "departamento": "Conectividad",
+        "descripcion": "Adaptador Tipo C a HDMI + USB 3.0 + PD Naceb Technology NA-0111 - Plata, USB C, HDMI + USB 3.0 + PD",
+        "categoria": "Adaptadores para Video",
+        "precio": 437.0,
+        "img": "180.jpg",
+        "existencia": 13
+    },
+    {
+        "name": "Adaptador Externo de Video 3.1",
+        "marca": "TRIPP-LITE",
+        "departamento": "Conectividad",
+        "descripcion": "Adaptador Externo de Video 3.1 TRIPP-LITE U444-06N-H4GU-C - Color blanco",
+        "categoria": "Adaptadores para Video",
+        "precio": 2045.0,
+        "img": "181.jpg",
+        "existencia": 10
+    },
+    {
+        "name": "Adaptador de 40 cm Header",
+        "marca": "StarTech",
+        "departamento": "Conectividad",
+        "descripcion": "Adaptador de 40 cm Header StarTech.com PLATE25F16LP - DB25, IDC26",
+        "categoria": "Adaptadores Serial",
+        "precio": 125.0,
+        "img": "181.jpg",
+        "existencia": 2
+    },
+    {
+        "name": "Adaptador Modular",
+        "marca": "StarTech",
+        "departamento": "Conectividad",
+        "descripcion": "Adaptador modular StarTech.com - DB9, RJ-45, Hembra/hembra",
+        "categoria": "Adaptadores Serial",
+        "precio": 53.0,
+        "img": "182.jpg",
+        "existencia": 2
+    },
+    {
+        "name": "Adaptador",
+        "marca": "StarTech",
+        "departamento": "Conectividad",
+        "descripcion": "Adaptador StarTech.com - PS/2, USB, Macho/hembra",
+        "categoria": "Adaptadores Serial",
+        "precio": 52.0,
+        "img": "183.jpg",
+        "existencia": 1
+    },
+    {
+        "name": "Cable Multiconector",
+        "marca": "StarTech",
+        "departamento": "Conectividad",
+        "descripcion": "Cable multiconector StarTech.com - VGA (D-Sub), 3 x RCA, Macho/Macho",
+        "categoria": "Adaptadores Serial",
+        "precio": 281.0,
+        "img": "184.jpg",
+        "existencia": 1
+    },
+    {
+        "name": "Antena",
+        "marca": "Ubiquiti",
+        "departamento": "Conectividad",
+        "descripcion": "Ubiquiti Networks LBE-M5-23 - IEEE 802.11n, Color blanco, Alámbrico, -40 - 70 °C, 5 - 95, 5.15 - 5.875",
+        "categoria": "Antenas",
+        "precio": 1792.0,
+        "img": "185.jpg",
+        "existencia": 238
+    },
+    {
+        "name": "Antena",
+        "marca": "UBIQUITI",
+        "departamento": "Conectividad",
+        "descripcion": "Antena UBIQUITI - 22 dBi, 5 GHz, Sector, 6 W",
+        "categoria": "Antenas",
+        "precio": 2820.0,
+        "img": "186.jpg",
+        "existencia": 106
+    },
+    {
+        "name": "Antena",
+        "marca": "UBIQUITI",
+        "departamento": "Conectividad",
+        "descripcion": "Antena UBIQUITI LBE-5AC-GEN2 - 23 dBi",
+        "categoria": "Antenas",
+        "precio": 2445.0,
+        "img": "187.jpg",
+        "existencia": 102
+    },
+    {
+        "name": "Antena",
+        "marca": "UBIQUITI",
+        "departamento": "Conectividad",
+        "descripcion": "Antena UBIQUITI - 25 dBi, 5 GHz",
+        "categoria": "Antenas",
+        "precio": 3309.0,
+        "img": "188.jpg",
+        "existencia": 100
+    },
+    {
+        "name": "Antena HD",
+        "marca": "Power-Co",
+        "departamento": "Conectividad",
+        "descripcion": "Antena HD Power-Co X-10 - HD",
+        "categoria": "Antenas",
+        "precio": 96.0,
+        "img": "189.jpg",
+        "existencia": 29
+    },
+    {
+        "name": "Antena",
+        "marca": "UBIQUITI",
+        "departamento": "Conectividad",
+        "descripcion": "Antena UBIQUITI - 5.47 - 5.825, Exterior",
+        "categoria": "Antenas",
+        "precio": 2853.0,
+        "img": "190.jpg",
+        "existencia": 26
+    },
+    {
+        "name": "Adaptador de Viajes",
+        "marca": "StarTech",
+        "departamento": "Conectividad",
+        "descripcion": "Adaptador de Viajes StarTech.com CDPVGDVHDB - Negro, Plata, HDMI",
+        "categoria": "Interruptores AV",
+        "precio": 1669.0,
+        "img": "191.jpg",
+        "existencia": 2
+    },
+    {
+        "name": "Inyector PoE",
+        "marca": "PROVISION-ISR",
+        "departamento": "Conectividad",
+        "descripcion": "Inyector PoE PROVISION-ISR PoEI-0130 - 30 W, 10, 100 Mbit/s",
+        "categoria": "Inyectores PoE",
+        "precio": 766.0,
+        "img": "192.jpg",
+        "existencia": 19
+    },
+    {
+        "name": "Inyector PoE",
+        "marca": "UBIQUITI",
+        "departamento": "Conectividad",
+        "descripcion": "Inyector PoE UBIQUITI POE-48-24W-G - 48 V, 90 - 260, 47 - 63",
+        "categoria": "Inyectores PoE",
+        "precio": 453.0,
+        "img": "193.jpg",
+        "existencia": 17
+    },
+    {
+        "name": "Inyector PoE",
+        "marca": "LINKSYS",
+        "departamento": "Conectividad",
+        "descripcion": "Inyector POE LINKSYS - 30 W, 10, 100, 1000 Mbit/s",
+        "categoria": "Inyectores PoE",
+        "precio": 1737.0,
+        "img": "194.jpg",
+        "existencia": 10
+    },
+    {
+        "name": "Inyector PoE",
+        "marca": "UBIQUITI",
+        "departamento": "Conectividad",
+        "descripcion": "Inyector PoE UBIQUITI POE-24-12W-G - Si, 90 - 260, 47 - 63",
+        "categoria": "Inyectores PoE",
+        "precio": 373.0,
+        "img": "195.jpg",
+        "existencia": 10
+    },
+    {
+        "name": "Inyector PoE",
+        "marca": "UBIQUITI",
+        "departamento": "Conectividad",
+        "descripcion": "Inyector PoE UBIQUITI POE-24-24W - 24W, 10, 100 Mbit/s, 90 - 260, 47 - 63",
+        "categoria": "Inyectores PoE",
+        "precio": 440.0,
+        "img": "196.jpg",
+        "existencia": 1
+    },
+    {
+        "name": "Inyector PoE",
+        "marca": "CISCO",
+        "departamento": "Conectividad",
+        "descripcion": "Inyector PoE CISCO AIR-PWRINJ6= - 25 W, 10, 100, 1000 Mbit/s",
+        "categoria": "Inyectores PoE",
+        "precio": 3836.0,
+        "img": "197.jpg",
+        "existencia": 1
+    },
+    {
+        "name": "Módulo Transceptor",
+        "marca": "ARUBA",
+        "departamento": "Conectividad",
+        "descripcion": "Módulo Transceptor ARUBA J4858D - SFP, 1000 Mbit/s",
+        "categoria": "Transceptores",
+        "precio": 1707.0,
+        "img": "198.jpg",
+        "existencia": 25
+    },
+    {
+        "name": "Transceptor",
+        "marca": "CISCO",
+        "departamento": "Conectividad",
+        "descripcion": "Transceptor CISCO GLC-LH-SMD= - 10000 m, SFP, 1000 Mbit/s, LH, LX",
+        "categoria": "Transceptores",
+        "precio": 21649.0,
+        "img": "199.jpg",
+        "existencia": 1
+    },
+    {
+        "name": "Transceptor",
+        "marca": "CISCO",
+        "departamento": "Conectividad",
+        "descripcion": "Transceptor CISCO GLC-SX-MMD= - 1000 m, SFP, 1000 Mbit/s",
+        "categoria": "Transceptores",
+        "precio": 10879.0,
+        "img": "200.jpg",
+        "existencia": 1
+    },
+    {
+        "name": "Módulo Transceptor",
+        "marca": "StarTech",
+        "departamento": "Conectividad",
+        "descripcion": "Módulo Transceptor StarTech.com J4859CST - 1310nm, 1.25Gbps, LX, Fibra óptica",
+        "categoria": "Transceptores",
+        "precio": 1334.0,
+        "img": "201.jpg",
+        "existencia": 1
+    },
+    {
+        "name": "Cámara Digital",
+        "marca": "CANON",
+        "departamento": "Electrónica",
+        "descripcion": "Cámara digital CANON PowerShot ELPH 180 PLATA - Plata, 20, 1 MP",
+        "categoria": "Cámara Digital",
+        "precio": 3054.0,
+        "img": "119.jpg",
+        "existencia": 115
+    },
+    {
+        "name": "Cámara Digital",
+        "marca": "CANON",
+        "departamento": "Electrónica",
+        "descripcion": "Cámara Digital CANON PowerShot ELPH 180 ROJO - Rojo, 20, 1 MP",
+        "categoria": "Cámara Digital",
+        "precio": 2921.0,
+        "img": "120.jpg",
+        "existencia": 20
+    },
+    {
+        "name": "Cámara deportiva",
+        "marca": "Stylos",
+        "departamento": "Electrónica",
+        "descripcion": "Cámara deportiva Stylos STVACX3B - Negro, 12 MP, LCD de 2 pulgadas",
+        "categoria": "Cámara Digital",
+        "precio": 637.0,
+        "img": "121.jpg",
+        "existencia": 3
+    },
+    {
+        "name": "Cámara Deportiva",
+        "marca": "Evorok",
+        "departamento": "Electrónica",
+        "descripcion": "Cámara Deportiva Evorok Dome 360 - 60 pps, Negro, Color blanco, 2448 x 2448 Pixeles, 16 MP, TFT",
+        "categoria": "Cámara Digital",
+        "precio": 2113.0,
+        "img": "122.jpg",
+        "existencia": 2
+    },
+    {
+        "name": "Cámara",
+        "marca": "CANON",
+        "departamento": "Electrónica",
+        "descripcion": "Cámara CANON EOS REBEL T7i - 24, 2 MP, LCD",
+        "categoria": "Cámara Digital",
+        "precio": 28944.0,
+        "img": "123.jpg",
+        "existencia": 1
+    },
+    {
+        "name": "Cámara Deportiva",
+        "marca": "Evorok",
+        "departamento": "Electrónica",
+        "descripcion": "Cámara Deportiva Evorok Adventure III - 120 pps, Negro, Gris, 1920 x 1080 Pixeles, 20 MP, LCD",
+        "categoria": "Cámara Digital",
+        "precio": 2212.0,
+        "img": "124.jpg",
+        "existencia": 1
+    },
+    {
+        "name": "Smartphone",
+        "marca": "Neffos",
+        "departamento": "Electrónica",
+        "descripcion": "Smartphone Neffos C7 LITE - 5.45'' , 1GB, Gris, Android 8.1",
+        "categoria": "Pantallas de Proyección",
+        "precio": 1659.0,
+        "img": "125.jpg",
+        "existencia": 56
+    },
+    {
+        "name": "Smartphone",
+        "marca": "Neffos",
+        "departamento": "Electrónica",
+        "descripcion": "Smartphone Neffos X20 - 6.26'', 2 GB, Negro, Android 9.0",
+        "categoria": "Pantallas de Proyección",
+        "precio": 2949.0,
+        "img": "126.jpg",
+        "existencia": 35
+    },
+    {
+        "name": "Smartphone",
+        "marca": "Neffos",
+        "departamento": "Electrónica",
+        "descripcion": "Smartphone Neffos C9S - 5.71'', 2 GB, Negro, Android 9.0",
+        "categoria": "Pantallas de Proyección",
+        "precio": 2507.0,
+        "img": "127.jpg",
+        "existencia": 12
+    },
+    {
+        "name": "Smartphone",
+        "marca": "Neffos",
+        "departamento": "Electrónica",
+        "descripcion": "Smartphone Neffos X20 Pro - 6.26",
+        "categoria": "Pantallas de Proyección",
+        "precio": 3687.0,
+        "img": "128.jpg",
+        "existencia": 12
+    },
+    {
+        "name": "Teléfono Celular Samsung Galaxy S10",
+        "marca": "Samsung",
+        "departamento": "Electrónica",
+        "descripcion": "Teléfono Celular Samsung Galaxy S10 SAMSUNG - 6.1 pulgadas, 8GB, Android 9.0 (Pie)",
+        "categoria": "Pantallas de Proyección",
+        "precio": 19364.0,
+        "img": "129.jpg",
+        "existencia": 3
+    },
+    {
+        "name": "Celular SAMSUNG A30S",
+        "marca": "SAMSUNG",
+        "departamento": "Electrónica",
+        "descripcion": "Celular SAMSUNG A30S Negro 64 GB - 6.4 pulgadas, 8, 4GB, Negro, Android 9.0 (Pie)",
+        "categoria": "Pantallas de Proyección",
+        "precio": 6814.0,
+        "img": "130.jpg",
+        "existencia": 1
+    },
+    {
+        "name": "Pantalla de Proyección",
+        "marca": "Multimedia Screens",
+        "departamento": "Electrónica",
+        "descripcion": "Pantalla de Proyección Multimedia Screens MSC-178 - 100 pulgadas, Manual, Pared, Color blanco",
+        "categoria": "Pantallas de Proyección",
+        "precio": 1555.0,
+        "img": "131.jpg",
+        "existencia": 301
+    },
+    {
+        "name": "Pantalla de Proyección",
+        "marca": " Multimedia Screens",
+        "departamento": "Electrónica",
+        "descripcion": "Pantalla de Proyección Multimedia Screens MSC-213 - 120 pulgadas, Manual, Pared, Color blanco",
+        "categoria": "Pantallas de Proyección",
+        "precio": 2604.0,
+        "img": "132.jpg",
+        "existencia": 57
+    },
+    {
+        "name": "Pantalla de Proyección",
+        "marca": "Multimedia Screens",
+        "departamento": "Electrónica",
+        "descripcion": "Pantalla de Proyección Multimedia Screens MSC-152 - 84 pulgadas, Manual, Pared, Color blanco",
+        "categoria": "Pantallas de Proyección",
+        "precio": 1465.0,
+        "img": "133.jpg",
+        "existencia": 32
+    },
+    {
+        "name": "Pantalla de Proyección",
+        "marca": "Multimedia Screens",
+        "departamento": "Electrónica",
+        "descripcion": "Pantalla de Proyección Multimedia Screens MST-178 - 100 pulgadas, Tripié, Color blanco",
+        "categoria": "Pantallas de Proyección",
+        "precio": 2098.0,
+        "img": "134.jpg",
+        "existencia": 29
+    },
+    {
+        "name": "Pantalla de Proyección",
+        "marca": "Multimedia Screens",
+        "departamento": "Electrónica",
+        "descripcion": "Pantalla de Proyección Multimedia Screens MSE-213 - 120 pulgadas, Eléctrica, Color blanco",
+        "categoria": "Pantallas de Proyección",
+        "precio": 5388.0,
+        "img": "135.jpg",
+        "existencia": 16
+    },
+    {
+        "name": "Pantalla de Proyección",
+        "marca": "Multimedia Screens",
+        "departamento": "Electrónica",
+        "descripcion": "Pantalla de Proyección Multimedia Screens MST213 - 120 pulgadas, Tripié, Color blanco",
+        "categoria": "Pantallas de Proyección",
+        "precio": 2857.0,
+        "img": "136.jpg",
+        "existencia": 15
+    },
+    {
+        "name": "Pantalla Samsung LED 55",
+        "marca": "Samsung",
+        "departamento": "Electrónica",
+        "descripcion": "Pantalla Samsung LED 55 SAMSUNG UN55RU7100FXZX - 55 pulgadas, 3840 x 2160, 4K UHD",
+        "categoria": "Pantallas y TV",
+        "precio": 11979.0,
+        "img": "137.jpg",
+        "existencia": 755
+    },
+    {
+        "name": "Television",
+        "marca": "SAMSUNG",
+        "departamento": "Electrónica",
+        "descripcion": "Television SAMSUNG UN43T5300AFXZX - 43 pulgadas, LED, 1920 x 1080 Pixeles, Tizen",
+        "categoria": "Pantallas y TV",
+        "precio": 7769.0,
+        "img": "138.jpg",
+        "existencia": 250
+    },
+    {
+        "name": "Televison",
+        "marca": "SAMSUNG",
+        "departamento": "Electrónica",
+        "descripcion": "Pantalla SAMSUNG UN49J5290AFXZX - 49 pulgadas, 1920 x 1080 Pixeles, Full HD, Negro",
+        "categoria": "Pantallas y TV",
+        "precio": 9911.0,
+        "img": "139.jpg",
+        "existencia": 220
+    },
+    {
+        "name": "Smart TV LED",
+        "marca": "Hisense",
+        "departamento": "Electrónica",
+        "descripcion": "Smart TV LED Hisense 43H6F - 43 pulgadas, 4K UHD, 3840 x 2160 Pixeles",
+        "categoria": "Pantallas y TV",
+        "precio": 7450.0,
+        "img": "140.jpg",
+        "existencia": 163
+    },
+    {
+        "name": "Smart TV",
+        "marca": "SAMSUNG",
+        "departamento": "Electrónica",
+        "descripcion": "Smart TV SAMSUNG Serie 7 - 43 pulgadas, 4K UHD, 3840 x 2160 Pixeles",
+        "categoria": "Pantallas y TV",
+        "precio": 9431.0,
+        "img": "141.jpg",
+        "existencia": 146
+    },
+    {
+        "name": "Televisor LG LED",
+        "marca": "LG",
+        "departamento": "Electrónica",
+        "descripcion": "Televisor LG LED de 43'' - 43 pulgadas, 1920 x 1080 Pixeles, Negro",
+        "categoria": "Pantallas y TV",
+        "precio": 8808.0,
+        "img": "142.jpg",
+        "existencia": 100
+    },
+    {
+        "name": "Proyector",
+        "marca": "INFOCUS",
+        "departamento": "Electrónica",
+        "descripcion": "Proyector INFOCUS IN112XV - 3800 lúmenes ANSI, DLP, SVGA (800x600), 6000 h, Negro",
+        "categoria": "Proyectores",
+        "precio": 8553.0,
+        "img": "143.jpg",
+        "existencia": 458
+    },
+    {
+        "name": "Proyector",
+        "marca": "INFOCUS",
+        "departamento": "Electrónica",
+        "descripcion": "Proyector INFOCUS IN112XA - 3500 lúmenes ANSI, DLP, SVGA (800x600), 5000 h, Negro",
+        "categoria": "Proyectores",
+        "precio": 9071.0,
+        "img": "144.jpg",
+        "existencia": 225
+    },
+    {
+        "name": "Proyector",
+        "marca": "BENQ",
+        "departamento": "Electrónica",
+        "descripcion": "Proyector BENQ MS550 - 3600 lúmenes ANSI, SVGA (800x600), 15000 h, Color blanco",
+        "categoria": "Proyectores",
+        "precio": 8844.0,
+        "img": "145.jpg",
+        "existencia": 208
+    },
+    {
+        "name": "Proyector",
+        "marca": "INFOCUS",
+        "departamento": "Electrónica",
+        "descripcion": "Proyector INFOCUS IN114XA - 3800 lúmenes ANSI, DLP, XGA (1024x768), 15000 h, Negro",
+        "categoria": "Proyectores",
+        "precio": 10367.0,
+        "img": "146.jpg",
+        "existencia": 115
+    },
+    {
+        "name": "Proyector",
+        "marca": "Acer",
+        "departamento": "Electrónica",
+        "descripcion": "Proyector Acer X1126AH - 4000 lúmenes ANSI estándar, SVGA (800x600), Máx WUXGA 1920x1080, 6, 000 horas, Lámpara OSRAM 220w, 1 año de garantía",
+        "categoria": "Proyectores",
+        "precio": 9794.0,
+        "img": "147.jpg",
+        "existencia": 50
+    },
+    {
+        "name": "Proyector",
+        "marca": "INFOCUS",
+        "departamento": "Electrónica",
+        "descripcion": "Proyector INFOCUS IN116XV - 3800 lúmenes ANSI, DLP, WXGA (1280x800), 15000 h, Negro",
+        "categoria": "Proyectores",
+        "precio": 11552.0,
+        "img": "148.jpg",
+        "existencia": 36
+    },
+    {
+        "name": "Apple TV",
+        "marca": "Apple",
+        "departamento": "Electrónica",
+        "descripcion": "Apple TV APPLE 32GB - Wifi / Ethernet, 1920 X 1080p, 32GB",
+        "categoria": "Streaming",
+        "precio": 4124.0,
+        "img": "149.jpg",
+        "existencia": 71
+    },
+    {
+        "name": "TV-Box",
+        "marca": "Naceb Technology",
+        "departamento": "Electrónica",
+        "descripcion": "TV-Box Naceb Technology NA-0502 - Ethernet (RJ-45), WLAN, 3840 x 2160, Android 6.0, 2GB, 16GB",
+        "categoria": "Streaming",
+        "precio": 2216.0,
+        "img": "150.jpg",
+        "existencia": 8
+    },
+    {
+        "name": "TV BOX 4K 1+8",
+        "marca": "Stylos",
+        "departamento": "Electrónica",
+        "descripcion": "TV BOX 4K 1+8 Stylos STVTBX3B - Wifi / Ethernet, 4K, Andoid TV 9.0, 1GB, 8GB",
+        "categoria": "Streaming",
+        "precio": 749.0,
+        "img": "151.jpg",
+        "existencia": 8
+    },
+    {
+        "name": "Apple TV 4K",
+        "marca": "Apple",
+        "departamento": "Electrónica",
+        "descripcion": "Apple TV 4K APPLE 64GB - Wifi / Ethernet, 3840 x 2160, 3GB, 64GB",
+        "categoria": "Streaming",
+        "precio": 5403.0,
+        "img": "152.jpg",
+        "existencia": 3
+    },
+    {
+        "name": "NACEBox TV",
+        "marca": "Naceb",
+        "departamento": "Electrónica",
+        "descripcion": "NACEBox TV Naceb Technology NA-0503 - Ethernet (RJ-45), WLAN, 3840 x 2160, Android 7.1, 1GB, 8GB",
+        "categoria": "Streaming",
+        "precio": 989.0,
+        "img": "153.jpg",
+        "existencia": 2
+    },
+    {
+        "name": "CELULAR APPLE IPHONE 7 BALCK 32GB A1778",
+        "marca": "APPLE",
+        "departamento": "Electrónica",
+        "descripcion": "No compres esto porfavor",
+        "categoria": "Teléfonos Digitales",
+        "precio": 11000.0,
+        "img": "152.jpg",
+        "existencia": 1
+    },
+    {
+        "name": "Rastreador GPS",
+        "marca": "MICTRACK",
+        "departamento": "Electrónica",
+        "descripcion": "Rastreador GPS MT600 MICTRACK ",
+        "categoria": "Transmisores",
+        "precio": 2177.0,
+        "img": "150.jpg",
+        "existencia": 354
+    },
+    {
+        "name": "Transmisor",
+        "marca": "Mobifree",
+        "departamento": "Electrónica",
+        "descripcion": "Transmisor Mobifree Transmisor FM Bluetooth con Manos libres - Negro, 87, 5 - 108 MHz, LED",
+        "categoria": "Transmisores",
+        "precio": 272.0,
+        "img": "151.jpg",
+        "existencia": 117
+    },
+    {
+        "name": "Banco de baterás",
+        "marca": "Smart-UPS",
+        "departamento": "Energía",
+        "descripcion": "BANCO DE BATERIAS Smart-UPS SRT 96V 3kVA RM Battery Pack - Entrada 48VDC /, Interface Port SUA48V,",
+        "categoria": "Bancos de Batería",
+        "precio": 28490.0,
+        "img": "209.jpg",
+        "existencia": 4
+    },
+    {
+        "name": "Banco de Batería",
+        "marca": "VICA",
+        "departamento": "Energía",
+        "descripcion": "Banco de batería VICA - Negro",
+        "categoria": "Bancos de Batería",
+        "precio": 7716.0,
+        "img": "210.jpg",
+        "existencia": 1
+    },
+    {
+        "name": "Batería para No Break",
+        "marca": "DATASHIELD",
+        "departamento": "Energía",
+        "descripcion": "Batería para No Break DATASHIELD - 12 V, 3 año(s), Negro",
+        "categoria": "Reemplazos",
+        "precio": 433.0,
+        "img": "211.jpg",
+        "existencia": 1582
+    },
+    {
+        "name": "Batería para No Break",
+        "marca": "DATASHIELD",
+        "departamento": "Energía",
+        "descripcion": "Batería para No Break DATASHIELD MI-4219 - Negro, 12 V, 9 AH",
+        "categoria": "Reemplazos",
+        "precio": 562.0,
+        "img": "212.jpg",
+        "existencia": 747
+    },
+    {
+        "name": "Batería para No Break",
+        "marca": "DATASHIELD",
+        "departamento": "Energía",
+        "descripcion": "Batería para No Break DATASHIELD - Negro, 12 V, 5 Año(s)",
+        "categoria": "Reemplazos",
+        "precio": 355.0,
+        "img": "213.jpg",
+        "existencia": 310
+    },
+    {
+        "name": "Batería Modelo",
+        "marca": "CDP",
+        "departamento": "Energía",
+        "descripcion": "Batería modelo CDP - 12 V",
+        "categoria": "Reemplazos",
+        "precio": 417.0,
+        "img": "214.jpg",
+        "existencia": 207
+    },
+    {
+        "name": "Batería Modelo",
+        "marca": "CDP",
+        "departamento": "Energía",
+        "descripcion": "Batería modelo CDP - Negro, 12 V",
+        "categoria": "Reemplazos",
+        "precio": 519.0,
+        "img": "215.jpg",
+        "existencia": 174
+    },
+    {
+        "name": "Batería",
+        "marca": "CDP",
+        "departamento": "Energía",
+        "descripcion": "Batería CDP B-12/4.5 - Negro, 12 V",
+        "categoria": "Reemplazos",
+        "precio": 259.0,
+        "img": "216.jpg",
+        "existencia": 61
+    },
+    {
+        "name": "Pasta térmica",
+        "marca": "MANHATTAN",
+        "departamento": "Ensambles",
+        "descripcion": "Pasta térmica MANHATTAN 701662 - Plata, 1, 5 g, Pasta térmica",
+        "categoria": "Enfriamiento y Ventilación",
+        "precio": 53.0,
+        "img": "238.jpg",
+        "existencia": 2230
+    },
+    {
+        "name": "Pasta térmica",
+        "marca": "BROBOTIX",
+        "departamento": "Ensambles",
+        "descripcion": "Pasta térmica BROBOTIX - Gris, 1, 5 g, Pasta térmica",
+        "categoria": "Enfriamiento y Ventilación",
+        "precio": 47.0,
+        "img": "239.jpg",
+        "existencia": 316
+    },
+    {
+        "name": "Ventilador",
+        "marca": "MANHATTAN",
+        "departamento": "Ensambles",
+        "descripcion": "Ventilador MANHATTAN - Ventilador, Negro, De plástico, 53 g, 2500 RPM",
+        "categoria": "Enfriamiento y Ventilación",
+        "precio": 97.0,
+        "img": "240.jpg",
+        "existencia": 271
+    },
+    {
+        "name": "Ventilador",
+        "marca": "BROBOTIX",
+        "departamento": "Ensambles",
+        "descripcion": "Ventilador BROBOTIX - Enfriador, Negro, Aluminio",
+        "categoria": "Enfriamiento y Ventilación",
+        "precio": 334.0,
+        "img": "241.jpg",
+        "existencia": 79
+    },
+    {
+        "name": "Pasta térmica",
+        "marca": "MANHATTAN",
+        "departamento": "Ensambles",
+        "descripcion": "Pasta térmica MANHATTAN - Gris, 20 g",
+        "categoria": "Enfriamiento y Ventilación",
+        "precio": 490.0,
+        "img": "242.jpg",
+        "existencia": 55
+    },
+    {
+        "name": "Ventilador",
+        "marca": "BROBOTIX",
+        "departamento": "Ensambles",
+        "descripcion": "Ventilador BROBOTIX 952539-4 - Negro, 550g, Enfriador, 2600 RPM, Aluminio",
+        "categoria": "Enfriamiento y Ventilación",
+        "precio": 192.0,
+        "img": "243.jpg",
+        "existencia": 28
+    },
+    {
+        "name": "Fuente de Poder",
+        "marca": "ACTECK",
+        "departamento": "Ensambles",
+        "descripcion": "Fuente de Poder ACTECK R-500 - Plata, 500 W",
+        "categoria": "Fuentes de Poder",
+        "precio": 381.0,
+        "img": "244.jpg",
+        "existencia": 1042
+    },
+    {
+        "name": "Fuente de Poder",
+        "marca": "EVOTEC",
+        "departamento": "Ensambles",
+        "descripcion": "Fuente de Poder EVOTEC EV-500 - Negro, 500 W",
+        "categoria": "Fuentes de Poder",
+        "precio": 296.0,
+        "img": "245.jpg",
+        "existencia": 353
+    },
+    {
+        "name": "Fuente de Poder",
+        "marca": "ACTECK",
+        "departamento": "Ensambles",
+        "descripcion": "Fuente de Poder ACTECK S-500 - Plata, 500 W, PC",
+        "categoria": "Fuentes de Poder",
+        "precio": 476.0,
+        "img": "246.jpg",
+        "existencia": 348
+    },
+    {
+        "name": "Fuente de Poder",
+        "marca": "Getttech",
+        "departamento": "Ensambles",
+        "descripcion": "Fuente de Poder Getttech PS500W - 115 - 230 V, Gris, 500W, PC",
+        "categoria": "Fuentes de Poder",
+        "precio": 273.0,
+        "img": "247.jpg",
+        "existencia": 267
+    },
+    {
+        "name": "Fuente de Poder",
+        "marca": "TRUE BASIX",
+        "departamento": "Ensambles",
+        "descripcion": "Fuente de Poder TRUE BASIX TB-924894 - 520 W, PC, Plata",
+        "categoria": "Fuentes de Poder",
+        "precio": 314.0,
+        "img": "248.jpg",
+        "existencia": 254
+    },
+    {
+        "name": "Fuente de Poder",
+        "marca": "TRUE BASIX",
+        "departamento": "Ensambles",
+        "descripcion": "Fuente de Poder TRUE BASIX CW-1000 - 12 V, Gris, 480 W",
+        "categoria": "Fuentes de Poder",
+        "precio": 264.0,
+        "img": "249.jpg",
+        "existencia": 251
+    },
+    {
+        "name": "Gabinete",
+        "marca": "EVOTEC",
+        "departamento": "Ensambles",
+        "descripcion": "Gabinete EVOTEC EV-1004 - Torre, Gabinete, ATX, Micro-ATX, Mini-ITX, Negro, 600 W",
+        "categoria": "Gabinetes para Computadoras",
+        "precio": 733.0,
+        "img": "250.jpg",
+        "existencia": 759
+    },
+    {
+        "name": "Gabinete",
+        "marca": "ACTECK BERN",
+        "departamento": "Ensambles",
+        "descripcion": "Gabinete ACTECK BERN TD510 - Slimline, PC, Micro-ATX, Negro, 500 W",
+        "categoria": "Gabinetes para Computadoras",
+        "precio": 1051.0,
+        "img": "251.jpg",
+        "existencia": 487
+    },
+    {
+        "name": "Gabinete",
+        "marca": "TRUE BASIX",
+        "departamento": "Ensambles",
+        "descripcion": "Gabinete TRUE BASIX TB-05001 - Torre, PC, ATX, Micro-ATX, Mini-ITX, Negro, 480 W",
+        "categoria": "Gabinetes para Computadoras",
+        "precio": 567.0,
+        "img": "252.jpg",
+        "existencia": 484
+    },
+    {
+        "name": "Gabinete",
+        "marca": "ACTECK KIRUNA",
+        "departamento": "Ensambles",
+        "descripcion": "Gabinete ACTECK KIRUNA - Torre, PC, Micro-ATX, Mini-ITX, Negro, 500 W",
+        "categoria": "Gabinetes para Computadoras",
+        "precio": 759.0,
+        "img": "253.jpg",
+        "existencia": 412
+    },
+    {
+        "name": "Gabinete",
+        "marca": "ACTECK",
+        "departamento": "Ensambles",
+        "descripcion": "Gabinete ACTECK NIALL GI004 - Escritorio, Gabinete, ATX, Micro-ATX, Mini-ITX, Negro, 500 W",
+        "categoria": "Gabinetes para Computadoras",
+        "precio": 868.0,
+        "img": "254.jpg",
+        "existencia": 323
+    },
+    {
+        "name": "Gabinete",
+        "marca": "EVOTEC",
+        "departamento": "Ensambles",
+        "descripcion": "Gabinete EVOTEC EV-1002 - Micro-ATX, Torre, Micro-ATX, Negro, 600 W",
+        "categoria": "Gabinetes para Computadoras",
+        "precio": 733.0,
+        "img": "255.jpg",
+        "existencia": 248
+    },
+    {
+        "name": "Lector de Memoria",
+        "marca": "BROBOTIX",
+        "departamento": "Ensambles",
+        "descripcion": "Lector MicroSD BROBOTIX 345673N - Negro, USB 2.0",
+        "categoria": "Lectores de Memorias",
+        "precio": 52.0,
+        "img": "256.jpg",
+        "existencia": 160
+    },
+    {
+        "name": "Lector de Memoria",
+        "marca": "MANHATTAN",
+        "departamento": "Ensambles",
+        "descripcion": "Lector de Memoria MANHATTAN - Negro",
+        "categoria": "Lectores de Memorias",
+        "precio": 394.0,
+        "img": "257.jpg",
+        "existencia": 124
+    },
+    {
+        "name": "Lector de Memoria",
+        "marca": "BROBOTIX",
+        "departamento": "Ensambles",
+        "descripcion": "Lector MicroSD BROBOTIX 345673A - 480 Mbit/s, Azul, USB 2.0",
+        "categoria": "Lectores de Memorias",
+        "precio": 53.0,
+        "img": "258.jpg",
+        "existencia": 116
+    },
+    {
+        "name": "Lector de Memoria",
+        "marca": "VORAGO",
+        "departamento": "Ensambles",
+        "descripcion": "Lector de memoria VORAGO - 480 Mbit/s, Negro",
+        "categoria": "Lectores de Memorias",
+        "precio": 145.0,
+        "img": "259.jpg",
+        "existencia": 112
+    },
+    {
+        "name": "Lector de Memoria",
+        "marca": "BROBOTIX",
+        "departamento": "Ensambles",
+        "descripcion": "Lectores de Memorias BROBOTIX 345673R - 480 Mbit/s, Rojo, USB 2.0",
+        "categoria": "Lectores de Memorias",
+        "precio": 52.0,
+        "img": "260.jpg",
+        "existencia": 105
+    },
+    {
+        "name": "Lector de Memoria",
+        "marca": "StarTech",
+        "departamento": "Ensambles",
+        "descripcion": "Lector de memoria StarTech.com - Negro, 105 x 130 x 25 mm, Acero",
+        "categoria": "Lectores de Memorias",
+        "precio": 460.0,
+        "img": "261.jpg",
+        "existencia": 1
+    },
+    {
+        "name": "Procesador",
+        "marca": "Intel",
+        "departamento": "Ensambles",
+        "descripcion": "Procesador Intel Celeron G4930 - 3, 2GHz, 2 núcleos, Socket 1151, 2 MB Caché. Coffee Lake.",
+        "categoria": "Microprocesadores",
+        "precio": 1263.0,
+        "img": "262.jpg",
+        "existencia": 1131
+    },
+    {
+        "name": "Procesador",
+        "marca": "AMD",
+        "departamento": "Ensambles",
+        "descripcion": "Procesador AMD RYZEN 5 3400G SPIRE COOLER RADEON - INCLUYE GRAFICOS",
+        "categoria": "Microprocesadores",
+        "precio": 4417.0,
+        "img": "263.jpg",
+        "existencia": 791
+    },
+    {
+        "name": "Procesador",
+        "marca": "Intel",
+        "departamento": "Ensambles",
+        "descripcion": "Procesador Intel Pentium Gold G5400 - 3.70GHz, 2 núcleos Socket 1151, 4 MB Caché, Coffee Lake.",
+        "categoria": "Microprocesadores",
+        "precio": 1618.0,
+        "img": "264.jpg",
+        "existencia": 328
+    },
+    {
+        "name": "Intel Core i3-9100F Coffee Lake 3.60GHz",
+        "marca": "Intel",
+        "departamento": "Ensambles",
+        "descripcion": "Procesador Intel Core i3-9100F 3.60GHz - 4 núcleos Socket 1151, 6 MB Caché. Coffee Lake. (REQUIERE TARJETA DE VIDEO INDEPENDIENTE)",
+        "categoria": "Microprocesadores",
+        "precio": 2582.0,
+        "img": "265.jpg",
+        "existencia": 306
+    },
+    {
+        "name": "Procesador",
+        "marca": "AMD",
+        "departamento": "Ensambles",
+        "descripcion": "Procesador AMD RYZEN 3 3200G SPIRE COOLER RADEON - INCLUYE GRAFICOS",
+        "categoria": "Microprocesadores",
+        "precio": 2692.0,
+        "img": "266.jpg",
+        "existencia": 199
+    },
+    {
+        "name": "Procesador",
+        "marca": "AMD",
+        "departamento": "Ensambles",
+        "descripcion": "Procesador AMD ATHLON 200GE AM4 - INCLUYE GRAFICOS",
+        "categoria": "Microprocesadores",
+        "precio": 1227.0,
+        "img": "267.jpg",
+        "existencia": 153
+    },
+    {
+        "name": "Monitor",
+        "marca": "ACER",
+        "departamento": "Ensambles",
+        "descripcion": "Monitor ACER V206HQL BB - 19.5 pulgadas, 1366 x 768 Pixeles, 5 ms, Garantía 3 años, VGA + perforaciones VESA",
+        "categoria": "Monitores",
+        "precio": 1865.0,
+        "img": "268.jpg",
+        "existencia": 1470
+    },
+    {
+        "name": "Monitor",
+        "marca": "HP",
+        "departamento": "Ensambles",
+        "descripcion": "Monitor HP P204V - 20 pulgadas, 1600 x 800, Negro",
+        "categoria": "Monitores",
+        "precio": 1827.0,
+        "img": "269.jpg",
+        "existencia": 1287
+    },
+    {
+        "name": "Monitor",
+        "marca": "HP",
+        "departamento": "Ensambles",
+        "descripcion": "Monitor HP V194 - 18.5 pulgadas, 1366 x 768 Pixeles",
+        "categoria": "Monitores",
+        "precio": 1735.0,
+        "img": "270.jpg",
+        "existencia": 1125
+    },
+    {
+        "name": "Monitor",
+        "marca": "ACER",
+        "departamento": "Ensambles",
+        "descripcion": "Monitor ACER Modelo V226HQL Bbi Pantalla 21.5 pulgadas - Full HD, Entradas 1 VGA, 1HDMI, Bocinas 2x 1W, Montaje VESA 100,",
+        "categoria": "Monitores",
+        "precio": 2359.0,
+        "img": "271.jpg",
+        "existencia": 780
+    },
+    {
+        "name": "Monitor",
+        "marca": "DELLEMC",
+        "departamento": "Ensambles",
+        "descripcion": "Monitor DELLEMC E2216H - 21.5 pulgadas, 1920 x 1080 Pixeles, Negro",
+        "categoria": "Monitores",
+        "precio": 3196.0,
+        "img": "272.jpg",
+        "existencia": 713
+    },
+    {
+        "name": "Monitor",
+        "marca": "HP",
+        "departamento": "Ensambles",
+        "descripcion": "Monitor HP N246V - 23.8 pulgadas, 1920 x 1080 Pixeles, Wide Screen, 100 Vesa, VGA/HDMI/DVI, 3 años",
+        "categoria": "Monitores",
+        "precio": 3578.0,
+        "img": "273.jpg",
+        "existencia": 557
+    },
+    {
+        "name": "Tarjeta Madre",
+        "marca": "Intel",
+        "departamento": "Ensambles",
+        "descripcion": "Tarjeta Madre ECS BSWI-D2-J3060 - DDR3L-SDRAM, Intel, Mini iTX",
+        "categoria": "Motherboards",
+        "precio": 1371.0,
+        "img": "275.jpg",
+        "existencia": 307
+    },
+    {
+        "name": "Tarjeta Madre",
+        "marca": "BAT",
+        "departamento": "Ensambles",
+        "descripcion": "Tarjeta Madre ECS BAT-I/J1800 - DDR3-SDRAM, 8 GB, Intel, BGA1170, Mini iTX",
+        "categoria": "Motherboards",
+        "precio": 1315.0,
+        "img": "276.jpg",
+        "existencia": 267
+    },
+    {
+        "name": "Tarjeta Madre",
+        "marca": "GIGABYTE",
+        "departamento": "Ensambles",
+        "descripcion": "Motherboard GIGABYTE A320M - DDR4, Micro ATX",
+        "categoria": "Motherboards",
+        "precio": 1658.0,
+        "img": "277.jpg",
+        "existencia": 62
+    },
+    {
+        "name": "Tarjeta Madre",
+        "marca": "GIGABYTE",
+        "departamento": "Ensambles",
+        "descripcion": "Tarjeta Madre GIGABYTE GA-A320M-H - DDR4-SDRAM, 32 GB, AMD, Zócalo AM4, Mini ATX",
+        "categoria": "Motherboards",
+        "precio": 1678.0,
+        "img": "278.jpg",
+        "existencia": 50
+    },
+    {
+        "name": "Tarjeta Madre",
+        "marca": "GIGABYTE",
+        "departamento": "Ensambles",
+        "descripcion": "Motherboard GIGABYTE GA-E6010N - DDR3, AMD, Mini ATX",
+        "categoria": "Motherboards",
+        "precio": 1494.0,
+        "img": "279.jpg",
+        "existencia": 45
+    },
+    {
+        "name": "Tarjeta Madre",
+        "marca": "ASUS",
+        "departamento": "Ensambles",
+        "descripcion": "Tarjeta Madre ASUS PRIME H310M-E R2.0 - DDR4, Intel, LGA1151, Micro ATX",
+        "categoria": "Motherboards",
+        "precio": 1824.0,
+        "img": "280.jpg",
+        "existencia": 39
+    },
+    {
+        "name": "PATATA MADRE",
+        "marca": "INTEL/AMD",
+        "departamento": "Ensambles",
+        "descripcion": "ORDENADOR MÁS POTENTE DEL MERCADO. EQUIVALENTE A UN ORDENADOR CUANTICO",
+        "categoria": "Motherboards",
+        "precio": 999999999999999.0,
+        "img": "281.jpg",
+        "existencia": 1
+    },
+    {
+        "name": "Cabezal de Impresión de Reemplazo",
+        "marca": "ZEBRA",
+        "departamento": "Impresión",
+        "descripcion": "Cabezal de Impresión de Reemplazo ZEBRA G32432-1M - Compatible con 105SL",
+        "categoria": "Cabezales",
+        "precio": 14036.0,
+        "img": "84.jpg",
+        "existencia": 3
+    },
+    {
+        "name": "Cabezal",
+        "marca": "HP",
+        "departamento": "Impresión",
+        "descripcion": "Cabezal HP Num 11 - Cian",
+        "categoria": "Cabezales",
+        "precio": 1421.0,
+        "img": "85.jpg",
+        "existencia": 2
+    },
+    {
+        "name": "Cartucho EPSON T664120-AL",
+        "marca": "EPSON",
+        "departamento": "Impresión",
+        "descripcion": "Cartucho EPSON T664120-AL - Negro, Epson",
+        "categoria": "Cartuchos",
+        "precio": 171.0,
+        "img": "86.jpg",
+        "existencia": 6490
+    },
+    {
+        "name": "Cartucho HP Cian",
+        "marca": "HP",
+        "departamento": "Impresión",
+        "descripcion": "Cartucho HP CZ104AL - Cian, Magenta, Amarillo, HP",
+        "categoria": "Cartuchos",
+        "precio": 221.0,
+        "img": "87.jpg",
+        "existencia": 4829
+    },
+    {
+        "name": "Cartucho HP Negro",
+        "marca": "HP",
+        "departamento": "Impresión",
+        "descripcion": "Cartucho HP CZ103AL - Negro, HP",
+        "categoria": "Cartuchos",
+        "precio": 221.0,
+        "img": "88.jpg",
+        "existencia": 3451
+    },
+    {
+        "name": "Cartucho HP Negro",
+        "marca": "HP",
+        "departamento": "Impresión",
+        "descripcion": "Cartucho HP CZ105AL - Negro, HP",
+        "categoria": "Cartuchos",
+        "precio": 459.0,
+        "img": "89.jpg",
+        "existencia": 3346
+    },
+    {
+        "name": "Cartucho EPSON Amarillo",
+        "marca": "EPSON",
+        "departamento": "Impresión",
+        "descripcion": "Cartucho EPSON T664420-AL - Amarillo, Epson",
+        "categoria": "Cartuchos",
+        "precio": 171.0,
+        "img": "90.jpg",
+        "existencia": 2623
+    },
+    {
+        "name": "Cartucho EPSON Magenta",
+        "marca": "EPSON",
+        "departamento": "Impresión",
+        "descripcion": "Cartucho EPSON T664320-AL - Magenta, Epson",
+        "categoria": "Cartuchos",
+        "precio": 171.0,
+        "img": "91.jpg",
+        "existencia": 2457
+    },
+    {
+        "name": "Cartucho EPSON Negro",
+        "marca": "Epson",
+        "departamento": "Impresión",
+        "descripcion": "Cartucho EPSON DYE - Negro, Epson",
+        "categoria": "Cartuchos",
+        "precio": 171.0,
+        "img": "92.jpg",
+        "existencia": 2360
+    },
+    {
+        "name": "Cartucho HP Cian",
+        "marca": "HP",
+        "departamento": "Impresión",
+        "descripcion": "Cartucho HP Num 664XL - Cian, Magenta, Amarillo, HP",
+        "categoria": "Cartuchos",
+        "precio": 574.0,
+        "img": "93.jpg",
+        "existencia": 2292
+    },
+    {
+        "name": "Cartucho EPSON Cian",
+        "marca": "EPSON",
+        "departamento": "Impresión",
+        "descripcion": "Cartucho EPSON T664220-AL - Cian, Epson",
+        "categoria": "Cartuchos",
+        "precio": 171.0,
+        "img": "94.jpg",
+        "existencia": 2138
+    },
+    {
+        "name": "Cinta EVOLIS YMCKO",
+        "marca": "EVOLIS",
+        "departamento": "Impresión",
+        "descripcion": "Cinta EVOLIS R5F008AAA - YMCKO, New Pebble",
+        "categoria": "Cinta",
+        "precio": 2094.0,
+        "img": "95.jpg",
+        "existencia": 80
+    },
+    {
+        "name": "Cinta EVOLIS Transparente",
+        "marca": "EVOLIS",
+        "departamento": "Impresión",
+        "descripcion": "Cinta EVOLIS R4213 - Transparente, Evolis",
+        "categoria": "Cinta",
+        "precio": 2066.0,
+        "img": "96.jpg",
+        "existencia": 11
+    },
+    {
+        "name": "ROLLO DE CINTA PAPEL",
+        "marca": "BROTHER",
+        "departamento": "Impresión",
+        "descripcion": "ROLLO DE CINTA PAPEL BROTHER DK2113 ",
+        "categoria": "Cinta",
+        "precio": 1899.0,
+        "img": "97.jpg",
+        "existencia": 18
+    },
+    {
+        "name": "Cinta EVOLITS",
+        "marca": "EVOLIS",
+        "departamento": "Impresión",
+        "descripcion": "Cinta EVOLIS - Multi",
+        "categoria": "Cinta",
+        "precio": 1603.0,
+        "img": "98.jpg",
+        "existencia": 15
+    },
+    {
+        "name": "Tubo Termo Retráctil",
+        "marca": "BROTHER",
+        "departamento": "Impresión",
+        "descripcion": "Tubo Termo Retráctil BROTHER HSE-251 - HSE/TZe, Negro sobre blanco",
+        "categoria": "Cinta",
+        "precio": 1546.0,
+        "img": "99.jpg",
+        "existencia": 4
+    },
+    {
+        "name": "Cinta",
+        "marca": "EVOLIS",
+        "departamento": "Impresión",
+        "descripcion": "Cinta EVOLIS - YMCKO, New Pebble",
+        "categoria": "Cinta",
+        "precio": 1399.0,
+        "img": "100.jpg",
+        "existencia": 94
+    },
+    {
+        "name": "Rollo de Papel",
+        "marca": "PCM",
+        "departamento": "Impresión",
+        "descripcion": "Rollo de papel PCM T8070C50 - Rollos de papel, Color blanco",
+        "categoria": "Papelería",
+        "precio": 1340.0,
+        "img": "101.jpg",
+        "existencia": 2336
+    },
+    {
+        "name": "Rollo Autocopiante",
+        "marca": "PCM",
+        "departamento": "Impresión",
+        "descripcion": "Rollo Autocopiante PCM EBA7670 - Rollos de papel, Color blanco",
+        "categoria": "Papelería",
+        "precio": 665.0,
+        "img": "102.jpg",
+        "existencia": 645
+    },
+    {
+        "name": "Rollo Térmico",
+        "marca": "PCM",
+        "departamento": "Impresión",
+        "descripcion": "Rollo térmico PCM T5736S12 - 57 x 36, Rollos de papel, Color blanco",
+        "categoria": "Papelería",
+        "precio": 1029.0,
+        "img": "103.jpg",
+        "existencia": 452
+    },
+    {
+        "name": "Rollo de papel",
+        "marca": "PCM",
+        "departamento": "Impresión",
+        "descripcion": "Rollo de papel PCM T5745 - Rollos de papel, Color blanco",
+        "categoria": "Papelería",
+        "precio": 1331.0,
+        "img": "104.jpg",
+        "existencia": 270
+    },
+    {
+        "name": "Rollo de Papel",
+        "marca": "PCM",
+        "departamento": "Impresión",
+        "descripcion": "Rollo de papel PCM T8080 - Rollos de papel, Color blanco",
+        "categoria": "Papelería",
+        "precio": 1834.0,
+        "img": "105.jpg",
+        "existencia": 314
+    },
+    {
+        "name": "Rollo de papel",
+        "marca": "PCM",
+        "departamento": "Impresión",
+        "descripcion": "Rollo de papel PCM B7670 - Rollos de papel, Color blanco",
+        "categoria": "Papelería",
+        "precio": 431.0,
+        "img": "106.jpg",
+        "existencia": 472
+    },
+    {
+        "name": "Tambor",
+        "marca": "XEROX",
+        "departamento": "Impresión",
+        "descripcion": "Tambor XEROX - Cartucho, Negro",
+        "categoria": "Papelería",
+        "precio": 7024.0,
+        "img": "107.jpg",
+        "existencia": 61
+    },
+    {
+        "name": "Tambor",
+        "marca": "XEROX",
+        "departamento": "Impresión",
+        "descripcion": "Tambor XEROX 013R00656 - Xerox, Negro, Tambor",
+        "categoria": "Papelería",
+        "precio": 8150.0,
+        "img": "108.jpg",
+        "existencia": 45
+    },
+    {
+        "name": "Tambor",
+        "marca": "BROTHER",
+        "departamento": "Impresión",
+        "descripcion": "Tambor BROTHER DR630 - 12000 páginas, Laser, Negro, Tambor",
+        "categoria": "Papelería",
+        "precio": 1832.0,
+        "img": "109.jpg",
+        "existencia": 31
+    },
+    {
+        "name": "Tambor",
+        "marca": "BROTHER",
+        "departamento": "Impresión",
+        "descripcion": "Tambor BROTHER - 10000 páginas, Negro",
+        "categoria": "Papelería",
+        "precio": 1208.0,
+        "img": "110.jpg",
+        "existencia": 28
+    },
+    {
+        "name": "Tambor",
+        "marca": "XEROX",
+        "departamento": "Impresión",
+        "descripcion": "Tambor XEROX - Cartucho, 51000 páginas, Cian",
+        "categoria": "Papelería",
+        "precio": 6165.0,
+        "img": "111.jpg",
+        "existencia": 26
+    },
+    {
+        "name": "Tambor",
+        "marca": "XEROX",
+        "departamento": "Impresión",
+        "descripcion": "Tambor XEROX - Cartucho, Negro",
+        "categoria": "Papelería",
+        "precio": 16831.0,
+        "img": "112.jpg",
+        "existencia": 16
+    },
+    {
+        "name": "Tóner",
+        "marca": "KYOCERA",
+        "departamento": "Impresión",
+        "descripcion": "Tóner KYOCERA TK-1162 - Negro",
+        "categoria": "Tóners",
+        "precio": 2030.0,
+        "img": "113.jpg",
+        "existencia": 1150
+    },
+    {
+        "name": "Tóner",
+        "marca": "HP",
+        "departamento": "Impresión",
+        "descripcion": "Tóner HP S Print SU815A - MLT-D111S/XAX - 1000 páginas, Negro",
+        "categoria": "Tóners",
+        "precio": 1108.0,
+        "img": "114.jpg",
+        "existencia": 428
+    },
+    {
+        "name": "Tóner",
+        "marca": "BROTHER",
+        "departamento": "Impresión",
+        "descripcion": "Botella de tinta BROTHER - Cian, 5000 páginas, Inyección de tinta",
+        "categoria": "Tóners",
+        "precio": 153.0,
+        "img": "115.jpg",
+        "existencia": 348
+    },
+    {
+        "name": "Tóner",
+        "marca": "BROTHER",
+        "departamento": "Impresión",
+        "descripcion": "Botella de tinta BROTHER - Amarillo, 5000 páginas, Inyección de tinta",
+        "categoria": "Tóners",
+        "precio": 153.0,
+        "img": "116.jpg",
+        "existencia": 343
+    },
+    {
+        "name": "Tóner",
+        "marca": "BROTHER",
+        "departamento": "Impresión",
+        "descripcion": "Botella de tinta BROTHER - Magenta, 5000 páginas, Inyección de tinta",
+        "categoria": "Tóners",
+        "precio": 153.0,
+        "img": "117.jpg",
+        "existencia": 335
+    },
+    {
+        "name": "Tóner",
+        "marca": "HP",
+        "departamento": "Impresión",
+        "descripcion": "Tóner HP Num 202A - 1300 páginas, Magenta",
+        "categoria": "Tóners",
+        "precio": 1792.0,
+        "img": "118.jpg",
+        "existencia": 330
+    },
+    {
+        "name": "Video Balum",
+        "marca": "PROVISION-ISR",
+        "departamento": "Otros",
+        "descripcion": "Video Balum PROVISION-ISR PTR-101V-HD+ - Negro",
+        "categoria": "Accesorios para Video Vigilancia",
+        "precio": 119.0,
+        "img": "217.jpg",
+        "existencia": 3020
+    },
+    {
+        "name": "Video Balum",
+        "marca": "PROVISION-ISR",
+        "departamento": "Otros",
+        "descripcion": "Video Balum PROVISION-ISR PTR-102VP-HD+ - Negro",
+        "categoria": "Accesorios para Video Vigilancia",
+        "precio": 203.0,
+        "img": "218.jpg",
+        "existencia": 2385
+    },
+    {
+        "name": "Micrófono de alta definición",
+        "marca": "Provision-ISR",
+        "departamento": "Otros",
+        "descripcion": "Micrófono de alta definición Provision-ISR ACC-MIC4 - Color blanco",
+        "categoria": "Accesorios para Video Vigilancia",
+        "precio": 146.0,
+        "img": "219.jpg",
+        "existencia": 275
+    },
+    {
+        "name": "Conector RCA",
+        "marca": "Qian",
+        "departamento": "Otros",
+        "descripcion": "Conector RCA Qian QAY-60305 - RCA, Negro",
+        "categoria": "Accesorios para Video Vigilancia",
+        "precio": 19.0,
+        "img": "220.jpg",
+        "existencia": 60
+    },
+    {
+        "name": "NVR 8CH/8POE",
+        "marca": "UNIARCH",
+        "departamento": "Otros",
+        "descripcion": "NVR 8CH/8POE UNIARCH NVR-108LS-P8 - IP, 8",
+        "categoria": "Accesorios para Video Vigilancia",
+        "precio": 2887.0,
+        "img": "221.jpg",
+        "existencia": 47
+    },
+    {
+        "name": "NVR 4CH/4POE",
+        "marca": "INIARCH",
+        "departamento": "Otros",
+        "descripcion": "VR 8CH/8POE UNIARCH NVR-108LS-P8 - IP, 8",
+        "categoria": "Accesorios para Video Vigilancia",
+        "precio": 1948.0,
+        "img": "222.jpg",
+        "existencia": 37
+    },
+    {
+        "name": "Cámara",
+        "marca": "Provision-ISR",
+        "departamento": "Otros",
+        "descripcion": "Camara Provision-ISR - 1930 x 1080 Pixeles, CMOS, 25, 4 / 3 mm (1 / 3)",
+        "categoria": "Cámaras de Video Vigilancia",
+        "precio": 617.0,
+        "img": "223.jpg",
+        "existencia": 532
+    },
+    {
+        "name": "Camara Bala IP",
+        "marca": "Dahua Technology",
+        "departamento": "Otros",
+        "descripcion": "Camara Bala IP Dahua Technology IPC-B1B20-L - 1080p, 20 fps, CMOS, H265+",
+        "categoria": "Cámaras de Video Vigilancia",
+        "precio": 883.0,
+        "img": "224.jpg",
+        "existencia": 184
+    },
+    {
+        "name": "Cámara IP CCTV Bullet",
+        "marca": "UNIARCH",
+        "departamento": "Otros",
+        "descripcion": "Cámara IP CCTV Bullet UNIARCH IPC-B112-PF28 - Interior y exterior, 2 Megapixeles, 25 fps, 1/2.9''/ Progressive scan/ CMOS, 2.8 mm",
+        "categoria": "Cámaras de Video Vigilancia",
+        "precio": 845.0,
+        "img": "225.jpg",
+        "existencia": 122
+    },
+    {
+        "name": "Cámara Bala",
+        "marca": "Provision-ISR",
+        "departamento": "Otros",
+        "descripcion": "Cámara Bala Provision-ISR I1-390IPS36 - Interior y exterior, 1920 x 1080 Pixeles, 30 pps, CMOS, 25, 4 / 3 mm (1 / 3'')",
+        "categoria": "Cámaras de Video Vigilancia",
+        "precio": 1380.0,
+        "img": "226.jpg",
+        "existencia": 110
+    },
+    {
+        "name": "Cámara",
+        "marca": "Provision-ISR",
+        "departamento": "Otros",
+        "descripcion": "Cámara Provision-ISR - Interior y exterior, 1920 x 1080 Pixeles, CMOS, 25, 4 / 3 mm (1 / 3",
+        "categoria": "Cámaras de Video Vigilancia",
+        "precio": 992.0,
+        "img": "227.jpg",
+        "existencia": 109
+    },
+    {
+        "name": "Camara de Seguridad IP 360",
+        "marca": "TECHZONE",
+        "departamento": "Otros",
+        "descripcion": "Camara de Seguridad IP 360 TECHZONE TZ18CAM01 - Interior, 1944 x 1944 Pixeles",
+        "categoria": "Cámaras de Video Vigilancia",
+        "precio": 3013.0,
+        "img": "228.jpg",
+        "existencia": 84
+    },
+    {
+        "name": "Sensor Óptico",
+        "marca": "Anviz",
+        "departamento": "Otros",
+        "descripcion": "Sensor Óptico Anviz AN-EP300 - USB, Negro, Si, No",
+        "categoria": "Control de Acceso",
+        "precio": 3399.0,
+        "img": "229.jpg",
+        "existencia": 255
+    },
+    {
+        "name": "NVR",
+        "marca": "Dahua Technology",
+        "departamento": "Otros",
+        "descripcion": "NVR Dahua Technology NVR2B16 - Negro, 16 canales, 80Mbps, ONVIF",
+        "categoria": "Grabadoras Digitales",
+        "precio": 3912.0,
+        "img": "230.jpg",
+        "existencia": 15
+    },
+    {
+        "name": "Video grabador",
+        "marca": "Provision-ISR",
+        "departamento": "Otros",
+        "descripcion": "Video grabador Provision-ISR NVR3-16400-8P(1U) - Negro, 16",
+        "categoria": "Grabadoras Digitales",
+        "precio": 3063.0,
+        "img": "231.jpg",
+        "existencia": 13
+    },
+    {
+        "name": "NVR",
+        "marca": "PROVISION-ISR",
+        "departamento": "Otros",
+        "descripcion": "NVR PROVISION-ISR NVR5-8200PX - AVI, DAT, H.264, H.265, 8 canales, Negro",
+        "categoria": "Grabadoras Digitales",
+        "precio": 4056.0,
+        "img": "232.jpg",
+        "existencia": 6
+    },
+    {
+        "name": "NVR",
+        "marca": "Dahua Technology",
+        "departamento": "Otros",
+        "descripcion": "NVR Dahua Technology NVR4216P4KS2 - 16, Negro",
+        "categoria": "Grabadoras Digitales",
+        "precio": 6984.0,
+        "img": "233.jpg",
+        "existencia": 2
+    },
+    {
+        "name": "DVR",
+        "marca": "MERIVA TECHNOLOGY",
+        "departamento": "Otros",
+        "descripcion": "DVR MERIVA TECHNOLOGY MSDV-910-08+ - 8 canales, Negro, 15 fps, 1080p",
+        "categoria": "Grabadoras Digitales",
+        "precio": 1390.0,
+        "img": "234.jpg",
+        "existencia": 2
+    },
+    {
+        "name": "NVR",
+        "marca": "HILOOK",
+        "departamento": "Otros",
+        "descripcion": "NVR HILOOK NVR-104MH-C/4P - Negro, 4",
+        "categoria": "Grabadoras Digitales",
+        "precio": 2272.0,
+        "img": "235.jpg",
+        "existencia": 1
+    },
+    {
+        "name": "Kits de panel de Control",
+        "marca": "HIKVISION",
+        "departamento": "Otros",
+        "descripcion": "Kits de panel de Control HIKVISION DS-PWA32-KG/DS-PWA32-HG/DS-PD1-MC-WWS/DS-19K00-Y - Color blanco, Inalámbrico",
+        "categoria": "Kits de Video Vigilancia",
+        "precio": 3556.0,
+        "img": "236.jpg",
+        "existencia": 19
+    },
+    {
+        "name": "Kit sistema de grabación",
+        "marca": "Dahua Technology",
+        "departamento": "Otros",
+        "descripcion": "Kit sistema de grabación Dahua Technology KIT/NVR4104HS-W-S2/4-HFW1120SW - Inalámbrico, 4 canales, 3.6 mm, 1080 p",
+        "categoria": "Kits de Video Vigilancia",
+        "precio": 9451.0,
+        "img": "237.jpg",
+        "existencia": 7
+    },
+    {
+        "name": "Lector de huella",
+        "marca": "Persona",
+        "departamento": "Software",
+        "descripcion": "Lector de huella Digital Persona DP4500 - Negro, Gris, Si, Si",
+        "categoria": "Lectores de Huella",
+        "precio": 2107.0,
+        "img": "203.jpg",
+        "existencia": 337
+    },
+    {
+        "name": "Lector de Huella",
+        "marca": "INGRESSIO",
+        "departamento": "Software",
+        "descripcion": "Lector de huella INGRESSIO Lector VIRDI USB - Plata, Si",
+        "categoria": "Lectores de Huella",
+        "precio": 3049.0,
+        "img": "204.jpg",
+        "existencia": 5
+    },
+    {
+        "name": "Sensor Óptico",
+        "marca": "Anviz",
+        "departamento": "Software",
+        "descripcion": "Sensor Óptico Anviz AN-T5PRO - chip/tarjeta de acceso, biométrico, Si, 0, 5 mm/s, Negro, 1000 usuario(s)",
+        "categoria": "Lectores de Huella",
+        "precio": 3649.0,
+        "img": "205.jpg",
+        "existencia": 2
+    },
+    {
+        "name": "Control de Acceso Biométrico",
+        "marca": "Anviz",
+        "departamento": "Software",
+        "descripcion": "Control de Acceso Biométrico AN-M5 Anviz - Negro, Si",
+        "categoria": "Lectores de Huella",
+        "precio": 5183.0,
+        "img": "206.jpg",
+        "existencia": 2
+    },
+    {
+        "name": "Lector Digital",
+        "marca": "INGRESSIO",
+        "departamento": "Software",
+        "descripcion": "Lector Digital INGRESSIO U.R.U 5300 - Negro, Si",
+        "categoria": "Lectores de Huella",
+        "precio": 3380.0,
+        "img": "207.jpg",
+        "existencia": 1
+    },
+    {
+        "name": "On The Minute 4.5 Lector de Huella",
+        "marca": "NATIONALSOFT",
+        "departamento": "Software",
+        "descripcion": "On The Minute 4.5 Lector de huella DP-50 Empleados USB NATIONALSOFT NS 9500 - Negro",
+        "categoria": "Lectores de Huella",
+        "precio": 3551.0,
+        "img": "208.jpg",
+        "existencia": 1
+    },
+    {
+        "name": "Software",
+        "marca": "ASPEL",
+        "departamento": "Software",
+        "descripcion": "Software ASPEL CAJAL1E - 4.0, 1 usuario adicional",
+        "categoria": "Sistemas Contables",
+        "precio": 2412.0,
+        "img": "202.jpg",
+        "existencia": 1
+    }
+]

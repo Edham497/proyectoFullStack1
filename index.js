@@ -3,8 +3,11 @@ import mongoose from "mongoose";
 import cors from "cors";
 import {expressCspHeader, SELF, INLINE, NONE} from 'express-csp-header'
 
+import settings from './data/settings.json'
+
 //Routes
-import ProductRoutes from './routes/products/products'
+import ProductRoutes from './routes/products'
+import UserRoutes from './routes/user'
 import UploadRoutes from './routes/upload'
 
 const app = express();
@@ -22,12 +25,9 @@ app.use(expressCspHeader({
   reportOnly: true
 }))
 
-const password = "3dh4m";
-const db = "tienda";
-
 mongoose
   .connect(
-    `mongodb+srv://edham:${password}@proyectofullstack.xm1zv.mongodb.net/${db}?retryWrites=true&w=majority`, {
+    `mongodb+srv://edham:${settings.pw}@proyectofullstack.xm1zv.mongodb.net/${settings.db}?retryWrites=true&w=majority`, {
     useUnifiedTopology: true,
     useNewUrlParser: true,
   }
@@ -36,6 +36,7 @@ mongoose
   .catch((err) => console.error(err));
 
 app.use('/products', ProductRoutes)
+app.use('/users', UserRoutes)
 app.use('/uploads', UploadRoutes)
 
 app.set("port", process.env.PORT || 5000);

@@ -1,0 +1,26 @@
+[
+    {
+        "rol": "1",
+        "nombre": "Jorge Rea",
+        "direccion": "Paseo del atardecer #327",
+        "telefono": "8713073174",
+        "email": "jorge.lrs497@gmail.com",
+        "password": "1234"
+    },
+    {
+        "rol": "1",
+        "nombre": "Mario Medrano",
+        "direccion": "tontolandia",
+        "telefono": "8717321111",
+        "email": "mario@gmail.com",
+        "password": "1234"
+    },
+    {
+        "rol": "2",
+        "nombre": "Hector Hernandez",
+        "direccion": "crikolandia 420",
+        "telefono": "8710420666",
+        "email": "hector@gmail.com",
+        "password": "1234"
+    }
+]
