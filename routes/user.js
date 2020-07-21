@@ -19,6 +19,35 @@ router.get('/', async (request, response) => {
     }
 })
 
+router.post('/find', async(request, response) => {
+    try {
+        const user = await User.findOne({ email: request.body.email })
+        if(user){
+            response.status(200).json({
+                status: "OK",
+                usr_data: {
+                    rol: user.rol,
+                    nombre: user.nombre,
+                    direccion: user.direccion,
+                    telefono: user.telefono,
+                    email: user.email,
+                    createdAt: user.createdAt
+                }
+            })
+        }else{
+            response.status(404).json({
+                status: "NOT_FOUND",
+                error: 'El usuario no existe'
+            })
+        }
+    }catch(e){
+        response.status(500).json({
+            status: "SERVER_ERROR",
+            error: 'Error de servidor',
+        })
+    }
+})
+
 router.post('/add', async (request, response) => {
     try {
         request.body.password = await bcrypt.hash(request.body.password, 10)
@@ -27,9 +56,9 @@ router.post('/add', async (request, response) => {
         response.status(200).json({ status: 'OK' })
     } catch (e) {
         if (e.code == 11000) {
-            response.status(500).json({ 
-                status: "DUPLICATED", 
-                error: "Usuario, Correo o Telefono ya existe" 
+            response.status(500).json({
+                status: "DUPLICATED",
+                error: "Usuario, Correo o Telefono ya existe"
             })
         } else
             response.status(500).json({
@@ -41,7 +70,7 @@ router.post('/add', async (request, response) => {
 
 router.put('/edit', async (request, response) => {
     const { userToChange, data } = request.body
-    const res = await User.updateOne({ _id: userToChange }, { $set: data })
+    const res = await User.updateOne({ email: userToChange }, { $set: data })
     response.status(200).json({ status: 'OK', backlog: JSON.stringify(res) })
 })
 
@@ -85,6 +114,37 @@ router.post('/login', async (request, response) => {
             error: 'Error de servidor',
         })
     }
+})
+
+router.post('/verify', async (request, response) => {
+    try {
+        const user = await User.findOne({ email: request.body.email })
+        if (user) {
+            if (await bcrypt.compare(request.body.password, user.password)) {
+                response.status(200).json({
+                    status: "OK"
+                })
+            } else {
+                response.status(400).json({
+                    status: "AUTH_REJECTED",
+                    error: 'correo o contraseña incorrectos'
+                })
+            }
+        }
+    } catch (e) {
+        response.status(500).json({
+            status: "SERVER_ERROR",
+            error: 'Error de servidor',
+        })
+    }
+})
+
+router.post('/changePassword', async (request, response) => {
+    const { userToChange, data } = request.body
+    console.log(userToChange, data)
+    const newPassword = await bcrypt.hash(data, 10)
+    const res = await User.updateOne({ email: userToChange }, { $set: { password: newPassword } })
+    response.status(200).json({ status: 'OK' })
 })
 
 export default router
