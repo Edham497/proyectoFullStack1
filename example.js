@@ -9,6 +9,8 @@ import data from './data/data.json'
 import settings from './data/settings.json'
 import users from './data/users.json'
 
+import {AUTH_REJECTED} from './models/ResponseHandler'
+
 mongoose
     .connect(
         `mongodb+srv://edham:${settings.pw}@proyectofullstack.xm1zv.mongodb.net/${settings.db}?retryWrites=true&w=majority`, {
@@ -31,17 +33,17 @@ function importData() {
     //     // console.log(_product)
     //     await _product.save()
     // })
-    users.forEach(async user => {
-        try{
-            user.password =  await bcrypt.hash(user.password, 10)
-            const _user = new User(user)
-            await _user.save()
+    // users.forEach(async user => {
+    //     try{
+    //         user.password =  await bcrypt.hash(user.password, 10)
+    //         const _user = new User(user)
+    //         await _user.save()
 
-        }catch(e){
-            if(e.code == 11000){
-                console.log("usuario duplicado")
-            }
-            // console.log(JSON.stringify(e))
-        }
-    })
+    //     }catch(e){
+    //         if(e.code == 11000){
+    //             console.log("usuario duplicado")
+    //         }
+    //         // console.log(JSON.stringify(e))
+    //     }
+    // })
 }

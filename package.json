@@ -18,7 +18,8 @@
   "scripts": {
     "serve": "nodemon -r esm index.js",
     "start": "babel-node --presets es2015 index.js",
-    "seeder": "babel-node --presets es2015 example.js"
+    "seeder": "babel-node --presets es2015 example.js",
+    "serve:seeder": "nodemon -r esm example.js"
   },
   "keywords": [],
   "author": "",
