@@ -8,5 +8,8 @@ export default mongoose.model('user', new Schema({
     telefono: { type: String, maxlength: 20 },
     email: { type: String, maxlength: 50, unique: true, required: true },
     password: { type: String, maxlength: 64, required: true },
-    createdAt: { type: Date, default: Date.now }
+    favoritos: Array,
+    compras: Array,
+    createdAt: { type: Date, default: Date.now },
+    modified: { type: Date, default: Date.now }
 }))

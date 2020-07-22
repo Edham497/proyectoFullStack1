@@ -36,3 +36,16 @@ export function DUPLICATED(response, message) {
 export function WRITE_JSON(response, message) {
     response.status(200).json(message)
 }
+
+export function WRITE_DATA(response, data){
+    response.status(200).json({
+        status: "OK",
+        data
+    })
+}
+
+export function WRITE_OK(response){
+    response.status(200).send({
+        status: "OK"
+    })
+}

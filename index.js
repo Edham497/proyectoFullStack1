@@ -1,35 +1,26 @@
 import express from "express";
 import mongoose from "mongoose";
 import cors from "cors";
-import {expressCspHeader, SELF, INLINE, NONE} from 'express-csp-header'
 
 import settings from './data/settings.json'
 
 //Routes
 import ProductRoutes from './routes/products'
 import UserRoutes from './routes/user'
-import UploadRoutes from './routes/upload'
+// import UploadRoutes from './routes/upload'
+import AuthRoutes from './routes/auth'
+import FavoritosRoutes from './routes/favoritos'
+import ComprasRoutes from './routes/compras'
 
 const app = express();
 app.use(cors());
 app.use(express.json());
-app.use(expressCspHeader({
-  directives: {
-    'default-src': [SELF],
-    'script-src': [SELF, INLINE, 'somehost.com'],
-    'style-src': [SELF, 'mystyles.net'],
-    'img-src': ['data:', 'images.com'],
-    'worker-src': [NONE],
-    'block-all-mixed-content': false
-  },
-  reportOnly: true
-}))
 
 mongoose
   .connect(
     `mongodb+srv://edham:${settings.pw}@proyectofullstack.xm1zv.mongodb.net/${settings.db}?retryWrites=true&w=majority`, {
-    useUnifiedTopology: true,
-    useNewUrlParser: true,
+      useUnifiedTopology: true,
+      useNewUrlParser: true,
   }
   )
   .then((db) => console.log("DB connected"))
@@ -37,7 +28,9 @@ mongoose
 
 app.use('/products', ProductRoutes)
 app.use('/users', UserRoutes)
-app.use('/uploads', UploadRoutes)
+app.use('/auth', AuthRoutes)
+app.use('/favoritos', FavoritosRoutes)
+app.use('/compras', ComprasRoutes)
 
 app.set("port", process.env.PORT || 5000);
 

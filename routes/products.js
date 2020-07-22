@@ -1,7 +1,7 @@
 import express from 'express'
 import Product from '../models/product'
 
-import { SERVER_ERROR, WRITE_JSON, NOT_FOUND } from '../models/ResponseHandler'
+import { SERVER_ERROR, WRITE_JSON, NOT_FOUND, WRITE_DATA } from '../models/ResponseHandler'
 
 async function asyncForEach(array, callback) {
     for (let index = 0; index < array.length; index++) {
@@ -60,6 +60,6 @@ router.post('/findList', async (request, response) => {
             SERVER_ERROR(response)
         }
     })
-    WRITE_JSON(response, { status: "OK", list })
+    WRITE_DATA(response, list)
 })
 export default router
