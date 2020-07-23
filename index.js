@@ -27,7 +27,8 @@ mongoose
   .then((db) => console.log("DB connected"))
   .catch((err) => console.error(err));
 
-app.use(history());
+//esto causa problemas con la api
+// app.use(history());
 
 app.use('/api/products', ProductRoutes)
 app.use('/api/users', UserRoutes)
