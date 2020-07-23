@@ -1,6 +1,7 @@
 import express from "express";
 import mongoose from "mongoose";
 import cors from "cors";
+import history from 'connect-history-api-fallback'
 
 import settings from './data/settings.json'
 
@@ -19,12 +20,17 @@ app.use(express.json());
 mongoose
   .connect(
     `mongodb+srv://edham:${settings.pw}@proyectofullstack.xm1zv.mongodb.net/${settings.db}?retryWrites=true&w=majority`, {
-      useUnifiedTopology: true,
-      useNewUrlParser: true,
+    useUnifiedTopology: true,
+    useNewUrlParser: true,
   }
   )
   .then((db) => console.log("DB connected"))
   .catch((err) => console.error(err));
+
+app.use(history({
+  disableDotRule: true,
+  verbose: true
+}));
 
 app.use('/api/products', ProductRoutes)
 app.use('/api/users', UserRoutes)
