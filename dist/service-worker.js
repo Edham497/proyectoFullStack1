@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.15b2d57d0a75c14d24a8ab28def855be.js"
+  "/precache-manifest.1fba77bae56b45ec7956d6345a551192.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "fullstack"});

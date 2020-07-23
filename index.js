@@ -27,10 +27,7 @@ mongoose
   .then((db) => console.log("DB connected"))
   .catch((err) => console.error(err));
 
-// app.use(history({
-//   disableDotRule: true,
-//   verbose: true
-// }));
+app.use(history());
 
 app.use('/api/products', ProductRoutes)
 app.use('/api/users', UserRoutes)
