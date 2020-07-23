@@ -2,7 +2,7 @@ import express from 'express'
 import User from '../models/user'
 import bcrypt from 'bcryptjs'
 
-import { NOT_FOUND, AUTH_REJECTED, DUPLICATED, SERVER_ERROR, WRITE_JSON } from '../models/ResponseHandler'
+import { NOT_FOUND, AUTH_REJECTED, DUPLICATED, SERVER_ERROR, WRITE_JSON, WRITE_DATA } from '../models/ResponseHandler'
 
 const router = express.Router()
 
@@ -59,6 +59,19 @@ router.put('/edit', async (request, response) => {
     const { userToChange, data } = request.body
     const res = await User.updateOne({ email: userToChange }, { $set: data })
     WRITE_JSON(response, { status: 'OK', backlog: JSON.stringify(res) })
+})
+
+router.post('/obtenerCarrito', async (request, response) => {
+    try{
+        const user = await User.findById(request.body.userID)
+        if(user){
+            WRITE_DATA(response, user.carrito)
+        }else{
+            NOT_FOUND(response)
+        }
+    }catch(e){
+        SERVER_ERROR(response)
+    }
 })
 
 // router.delete('/delete', async(request, response) => {

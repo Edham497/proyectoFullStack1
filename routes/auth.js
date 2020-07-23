@@ -1,6 +1,7 @@
 import express from 'express'
 import User from '../models/user'
 import bcrypt from 'bcryptjs'
+import { AUTH_REJECTED, SERVER_ERROR, NOT_FOUND } from '../models/ResponseHandler'
 
 const router = express.Router()
 
@@ -20,27 +21,18 @@ router.post('/login', async (request, response) => {
                         telefono: user.telefono,
                         email: user.email,
                         createdAt: user.createdAt,
-                        favoritos: user.favoritos
+                        favoritos: user.favoritos,
+                        carrito: user.carrito,
                     }
                 })
             } else {
-                response.status(401).json({
-                    status: "AUTH_REJECTED",
-                    error: 'correo o contraseña incorrectos'
-                })
+                AUTH_REJECTED(response)
             }
         } else {
-            response.status(404).json({
-                status: "NOT_FOUND",
-                error: 'El usuario no existe'
-            })
+            NOT_FOUND(response)
         }
     } catch (e) {
-        console.log(e)
-        response.status(500).json({
-            status: "SERVER_ERROR",
-            error: 'Error de servidor',
-        })
+        SERVER_ERROR(response)
     }
 })
 
@@ -53,17 +45,11 @@ router.post('/verify', async (request, response) => {
                     status: "OK"
                 })
             } else {
-                response.status(400).json({
-                    status: "AUTH_REJECTED",
-                    error: 'correo o contraseña incorrectos'
-                })
+                AUTH_REJECTED(resposne)
             }
         }
     } catch (e) {
-        response.status(500).json({
-            status: "SERVER_ERROR",
-            error: 'Error de servidor',
-        })
+        SERVER_ERROR(response)
     }
 })
 

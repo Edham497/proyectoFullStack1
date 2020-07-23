@@ -26,11 +26,12 @@ mongoose
   .then((db) => console.log("DB connected"))
   .catch((err) => console.error(err));
 
-app.use('/products', ProductRoutes)
-app.use('/users', UserRoutes)
-app.use('/auth', AuthRoutes)
-app.use('/favoritos', FavoritosRoutes)
-app.use('/compras', ComprasRoutes)
+app.use('/api/products', ProductRoutes)
+app.use('/api/users', UserRoutes)
+app.use('/api/auth', AuthRoutes)
+app.use('/api/favoritos', FavoritosRoutes)
+app.use('/api/compras', ComprasRoutes)
+app.use(express.static(__dirname + "/dist"));
 
 app.set("port", process.env.PORT || 5000);
 

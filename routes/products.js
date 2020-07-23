@@ -1,7 +1,8 @@
 import express from 'express'
 import Product from '../models/product'
+import User from '../models/user'
 
-import { SERVER_ERROR, WRITE_JSON, NOT_FOUND, WRITE_DATA } from '../models/ResponseHandler'
+import { SERVER_ERROR, WRITE_JSON, NOT_FOUND, WRITE_DATA, WRITE_OK } from '../models/ResponseHandler'
 
 async function asyncForEach(array, callback) {
     for (let index = 0; index < array.length; index++) {
@@ -62,4 +63,17 @@ router.post('/findList', async (request, response) => {
     })
     WRITE_DATA(response, list)
 })
+
+router.post('/addToCart', async (request, response) => {
+    try {
+        const { userID, carritoNuevo } = request.body
+        console.log(carritoNuevo)
+        await User.findByIdAndUpdate(userID, { $set: { carrito: carritoNuevo} })
+        WRITE_OK(response)
+    } catch (e) {
+        console.log(e)
+        SERVER_ERROR(response, e)
+    }
+})
+
 export default router
