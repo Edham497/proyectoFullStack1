@@ -12,7 +12,7 @@ async function asyncForEach(array, callback) {
 
 const router = express.Router()
 
-router.get('/', async (request, response) => {
+router.get('/list', async (request, response) => {
     const listaProducts = await Product.find({})
     if (listaProducts.length < 2)
         WRITE_JSON(response, listaProducts[0])
